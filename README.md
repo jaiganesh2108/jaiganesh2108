@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development and AI-based projects**
 - 🌱 I’m currently learning **Machine Learning**
+- - 👀 I’m interested in **E-commerce solutions, AI development, and Machine Learning**
 - 💞️ I’m looking to collaborate on **AI-driven projects, Full Stack Development, and innovative e-commerce platforms**
 - 📫 How to reach me: **jaig7335@gmail.com**
+- 😄 Pronouns: **He/Him**
 - 💬 Quote: *"MEN ARE BRAVE"*
-
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +29,9 @@
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
