@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaiganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Full Stack Web Development and AI-based projects**
+- 🌱 I’m currently learning **Machine Learning**
+- 💞️ I’m looking to collaborate on **AI-driven projects, Full Stack Development, and innovative e-commerce platforms**
 - 📫 How to reach me: **jaig7335@gmail.com**
 - 💬 Quote: *"MEN ARE BRAVE"*
 
