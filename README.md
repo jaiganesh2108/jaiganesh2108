@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development and AI-based projects**
 - 🌱 I’m currently learning **Machine Learning**
-- - 👀 I’m interested in **E-commerce solutions, AI development, and Machine Learning**
+- 👀 I’m interested in **E-commerce solutions, AI development, and Machine Learning**
 - 💞️ I’m looking to collaborate on **AI-driven projects, Full Stack Development, and innovative e-commerce platforms**
 - 📫 How to reach me: **jaig7335@gmail.com**
 - 😄 Pronouns: **He/Him**
