@@ -8,6 +8,9 @@
 - 📫 How to reach me: **jaig7335@gmail.com**
 - 😄 Pronouns: **He/Him**
 - 💬 Quote: *"MEN ARE BRAVE"*
+ <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6gLzI0KCc6yvu/giphy.gif" alt="Welcome GIF" />
+</p>
 ---
 
 <h3 align="left">Connect with me:</h3>
