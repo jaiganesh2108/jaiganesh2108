@@ -9,7 +9,7 @@
 - 😄 Pronouns: **He/Him**
 - 💬 Quote: *"MEN ARE BRAVE"*
  <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6gLzI0KCc6yvu/giphy.gif" alt="Welcome GIF" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FR041T%2FR041T&psig=AOvVaw0E4ij8v7rF7hKsY3fHGOg6&ust=1727103467392000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDr5ffn1ogDFQAAAAAdAAAAABAE" alt="Welcome GIF" />
 </p>
 ---
 
