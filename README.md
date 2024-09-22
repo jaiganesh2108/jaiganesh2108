@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaiganesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer | AI Developer | Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development and AI-based projects**
 - 🌱 I’m currently learning **Machine Learning**
