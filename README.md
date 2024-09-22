@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaiganesh</h1>
+<h1 align="center">Hi there 👋 its me Jaiganesh</h1>
 <h3 align="center">Full Stack Developer | AI Developer | Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development and AI-based projects**
