@@ -77,7 +77,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=J&show_icons=trjaiganesh2108e&locale=en&layout=compact" alt="Jaiganseh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaiganesh&show_icons=trjaiganesh2108e&locale=en&layout=compact" alt="Jaiganseh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en" alt="Jaiganesh" /></p>
 
