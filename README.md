@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 its me Jaiganesh</h1>
 <h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Development and ML**
-- 🌱 I’m currently learning **Machine Learning**
-- 👀 I’m interested in **E-commerce solutions, AI development, and Machine Learning**
-- 💞️ I’m looking to collaborate on **AI-driven projects, Full Stack Development, and innovative e-commerce platforms**
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **React**
+- 👀 I’m interested in **E-commerce solutions**
+- 💞️ I’m looking to collaborate on **Full Stack Development, and innovative e-commerce platforms**
 - 📫 How to reach me: **jaig7335@gmail.com**
 - 😄 Pronouns: **He/Him**
 - 💬 Quote: *"MEN ARE BRAVE"*
