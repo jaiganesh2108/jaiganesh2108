@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 its me Jaiganesh</h1>
-<h3 align="center">Full Stack Developer | AI Developer | Machine Learning Engineer</h3>
+<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development and ML**
 - 🌱 I’m currently learning **Machine Learning**
