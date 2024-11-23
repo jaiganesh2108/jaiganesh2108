@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 its me Jaiganesh</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer | Android Developer</h3>
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 - 🌱 I’m currently learning **React**
