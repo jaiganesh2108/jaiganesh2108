@@ -9,7 +9,11 @@
 - 💞️ Open to collaborations in **Full Stack Development and E-commerce projects**  
 - 📫 Reach me at **jaig7335@gmail.com**  
 - 😄 Pronouns: **He/Him**  
-- 💬 Favorite Quote: *"Men Are Brave"*  
+- 💬 Favorite Quote: *"Men Are Brave"*
+<div align="right">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw37fgqdOqOEysMWhan2X_6e&ust=1737563972755000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDkya2gh4sDFQAAAAAdAAAAABAE" alt="Bio GIF" width="300" />
+</div>
+
 
 ---
 
