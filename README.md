@@ -6,16 +6,8 @@
   <img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" alt="Coding GIF" width="1000" height="300"/>
 </div>
 
-
-
 ---
-
-
-
----
-
-
-
+### **About Me**
 - 🔭 Currently working on **Full-Stack Web Development**  
 - 🌱 Actively learning **Android Development**  
 - 👀 Passionate about **E-commerce solutions and innovative platforms**  
