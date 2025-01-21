@@ -3,11 +3,7 @@
 <h3 align="center"> Founder of Starfire </h3>
 
 ---
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Coding GIF" width="1000" height="300"/>
-</div>
 
----
 ### **About Me**
 - 🔭 Currently working on **Full-Stack Web Development**  
 - 🌱 Actively learning **Web 3.0**  
