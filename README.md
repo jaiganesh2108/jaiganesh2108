@@ -3,7 +3,7 @@
 
 ---
 <div align="left">
-  <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Coding GIF" width="1000" height="300"/>
+  <img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" alt="Coding GIF" width="1000" height="300"/>
 </div>
 
 
