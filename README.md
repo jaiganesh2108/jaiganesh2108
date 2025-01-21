@@ -10,12 +10,13 @@
 ---
 ### **About Me**
 - 🔭 Currently working on **Full-Stack Web Development**  
-- 🌱 Actively learning **Android Development**  
+- 🌱 Actively learning **Web 3.0**  
 - 👀 Passionate about **E-commerce solutions and innovative platforms**  
-- 💞️ Open to collaborations in **Full Stack Development and E-commerce projects**  
+- 💞️ Open to collaborations in **Web3 Full Stack Development and E-commerce projects**  
 - 📫 Reach me at **jaig7335@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - 💬 Favorite Quote: *"Men Are Brave"*
+
 ---
 
 
