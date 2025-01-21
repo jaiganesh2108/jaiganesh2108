@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm <span style="color: red;">Jaiganesh</span></h1>
+<h1 align="center">Hi there 👋 I'm <span style="color:red;">Jaiganesh</span></h1>
 <h3 align="center">Full-Stack Developer | Android Developer</h3>
 
 ---
