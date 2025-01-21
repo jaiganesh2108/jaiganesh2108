@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋 I'm <font color="red">Jaiganesh</font></h1>
+<h1 align="center">
+  <img src="YOUR_IMAGE_URL" alt="Hi there 👋 I'm Jaiganesh" />
+</h1>
 <h3 align="center">Full-Stack Developer | Android Developer</h3>
 
 ---
