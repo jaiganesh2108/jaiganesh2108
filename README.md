@@ -1,27 +1,29 @@
-<h1 align="center">Hi there 👋 its me Jaiganesh</h1>
-<h3 align="center">Full Stack Developer | Android Developer</h3>
-
-- 🔭 I’m currently working on **Full-Stack Web Development**
-- 🌱 I’m currently learning **Android Development**
-- 👀 I’m interested in **E-commerce solutions**
-- 💞️ I’m looking to collaborate on **Full Stack Development, and innovative e-commerce platforms**
-- 📫 How to reach me: **jaig7335@gmail.com**
-- 😄 Pronouns: **He/Him**
-- 💬 Quote: *"MEN ARE BRAVE"*
-
+<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
+<h3 align="center">Full-Stack Developer | Android Developer</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently working on **Full-Stack Web Development**  
+- 🌱 Actively learning **Android Development**  
+- 👀 Passionate about **E-commerce solutions and innovative platforms**  
+- 💞️ Open to collaborations in **Full Stack Development and E-commerce projects**  
+- 📫 Reach me at **jaig7335@gmail.com**  
+- 😄 Pronouns: **He/Him**  
+- 💬 Favorite Quote: *"Men Are Brave"*  
+
+---
+
+### 🌐 **Connect with Me**
 <p align="left">
-  <a href="http://instagram.com/jg_official_2005" target="blank">
+  <a href="http://instagram.com/jg_official_2005" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <!-- Add more social links if required -->
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 **Languages and Tools**
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -66,14 +68,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   </a>
 </p>
-[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jaiganesh2108)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaiganesh&show_icons=trjaiganesh2108e&locale=en&layout=compact" alt="Jaiganseh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en" alt="Jaiganesh" /></p>
+### 📊 **GitHub Stats**
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&" alt="Jaiganseh" /></p>
-<!---
-jaiganesh2108/jaiganesh2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak" /></p>
