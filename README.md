@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   </a>
 </p>
-
+[![Jai's github stats](https://github-readme-stats.vercel.app/api?username=jaiganesh2108)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaiganesh&show_icons=trjaiganesh2108e&locale=en&layout=compact" alt="Jaiganseh" /></p>
 
