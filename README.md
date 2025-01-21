@@ -17,7 +17,7 @@
 ### 🎮 **Fun Fact**
 Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄
 
-<div align="left">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="500" height="300"/>
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Working GIF" width="500" height="300"/>
 </div>
