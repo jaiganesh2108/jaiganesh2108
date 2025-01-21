@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
 <h3 align="center">Full-Stack Developer | Android Developer</h3>
 
 ---
@@ -81,3 +81,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak" /></p>
+
