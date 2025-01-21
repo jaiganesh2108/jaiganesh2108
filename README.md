@@ -99,12 +99,13 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #181717; border-radius: 10px; padding: 5px;"/>
   </a>
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.pygame.org/images/icon.svg" alt="Pygame" width="40" height="40" style="background-color: #3776AB; border-radius: 10px; padding: 5px;"/>
+<a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pygame_logo.svg" alt="Pygame" width="40" height="40" style="background-color: #3776AB; border-radius: 10px; padding: 5px;"/>
   </a>
   <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/web3foundation/web3foundation-icon.svg" alt="Web3" width="40" height="40" style="background-color: #F16822; border-radius: 10px; padding: 5px;"/>
+    <img src="https://cryptologos.cc/logos/web3-web3-logo.svg" alt="Web3" width="40" height="40" style="background-color: #F16822; border-radius: 10px; padding: 5px;"/>
   </a>
+
 </p>
 
 
