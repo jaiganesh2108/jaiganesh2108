@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack Developer | Android Developer</h3>
 
 ---
-
 - 🔭 Currently working on **Full-Stack Web Development**  
 - 🌱 Actively learning **Android Development**  
 - 👀 Passionate about **E-commerce solutions and innovative platforms**  
@@ -10,8 +9,8 @@
 - 📫 Reach me at **jaig7335@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - 💬 Favorite Quote: *"Men Are Brave"*
-
-<div align="right">
+---
+<div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="250" />
   <img src="https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif" alt="Working GIF" width="250" />
 </div>
