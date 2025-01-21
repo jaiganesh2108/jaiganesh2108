@@ -1,3 +1,7 @@
+<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
+<h3 align="center">Full-Stack Developer | Android Developer | Web 3.0 Beginner</h3>
+
+---
 <div align="left">
   <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Coding GIF" width="1000" height="300"/>
 </div>
@@ -5,8 +9,9 @@
 
 
 ---
-<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
-<h3 align="center">Full-Stack Developer | Android Developer | Web 3.0 Beginner</h3>
+
+
+
 ---
 
 
