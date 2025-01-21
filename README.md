@@ -10,9 +10,10 @@
 - 📫 Reach me at **jaig7335@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - 💬 Favorite Quote: *"Men Are Brave"*
+
 <div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Bio GIF" width="300" />
-  <img src="https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif" alt="Bio GIF" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="250" />
+  <img src="https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif" alt="Working GIF" width="250" />
 </div>
 
 ---
@@ -22,11 +23,9 @@
   <a href="http://instagram.com/jg_official_2005" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-    <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="40" />
+  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
-  <!-- Add more social links if required -->
 </p>
 
 ---
@@ -77,14 +76,11 @@
   </a>
 </p>
 
-
 ---
 
 ### 📊 **GitHub Stats**
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
