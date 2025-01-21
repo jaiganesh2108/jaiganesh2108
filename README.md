@@ -14,8 +14,10 @@
 - 💬 Favorite Quote: *"Men Are Brave"*
 
 ---
+### 🎮 **Fun Fact**
+Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄
 
-
+---
 ### 🧑🏻‍💻 **Friendly Programmer**
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="500" height="300"/>
