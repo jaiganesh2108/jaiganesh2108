@@ -12,6 +12,7 @@
 - 📫 Reach me at **jaig7335@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 - 💬 Favorite Quote: *"Men Are Brave"*
+[![Jaiganesh's Activity](https://github-readme-activity-graph.cyclic.app/graph?username=jaiganesh2108)](https://github.com/jaiganesh2108)
 
 ---
 ### 🎮 **Fun Fact**
