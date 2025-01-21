@@ -1,6 +1,8 @@
+<div align="left">
+  <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png" alt="Coding GIF" width="700" height="300"/>
+</div>
 <h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
-<h3 align="center">Full-Stack Developer | Android Developer</h3>
-
+<h3 align="center">Full-Stack Developer | Android Developer | Web 3.0 Beginner</h3>
 ---
 - 🔭 Currently working on **Full-Stack Web Development**  
 - 🌱 Actively learning **Android Development**  
@@ -15,9 +17,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="500" height="300"/>
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Working GIF" width="500" height="300"/>
 </div>
-
 ---
-
 ### 🌐 **Connect with Me**
 <p align="left">
   <a href="http://instagram.com/jg_official_2005" target="_blank">
@@ -27,11 +27,8 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-
 ---
-
 ### 🛠 **Languages and Tools**
-<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="background-color: #00599C; border-radius: 10px; padding: 5px;"/>
@@ -100,14 +97,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #181717; border-radius: 10px; padding: 5px;"/>
   </a>
 </p>
-
-
-
 ---
 
 ### 📊 **GitHub Stats**
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
