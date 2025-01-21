@@ -75,7 +75,38 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" style="background-color: #7F52FF; border-radius: 10px; padding: 5px;"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="background-color: #F24E1E; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" width="40" height="40" style="background-color: #363636; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" alt="Ethereum" width="40" height="40" style="background-color: #3C3C3D; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" style="background-color: #3DDC84; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40" style="background-color: #00C4CC; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" style="background-color: #E95420; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="background-color: #F05032; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #181717; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.pygame.org/images/icon.svg" alt="Pygame" width="40" height="40" style="background-color: #3776AB; border-radius: 10px; padding: 5px;"/>
+  </a>
+  <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/web3foundation/web3foundation-icon.svg" alt="Web3" width="40" height="40" style="background-color: #F16822; border-radius: 10px; padding: 5px;"/>
+  </a>
 </p>
+
 
 
 ---
