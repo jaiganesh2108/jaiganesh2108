@@ -99,16 +99,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #181717; border-radius: 10px; padding: 5px;"/>
   </a>
-<!-- Pygame -->
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" alt="Pygame" width="40" height="40" style="background-color: #3776AB; border-radius: 10px; padding: 5px;"/>
-  </a>
-
-  <!-- Web3 -->
-  <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/web3/web3.js/1.x/assets/web3-logo.svg" alt="Web3" width="40" height="40" style="background-color: #F16822; border-radius: 10px; padding: 5px;"/>
-  </a>
-
 </p>
 
 
