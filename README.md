@@ -56,8 +56,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/>
   </a>
-  </p>
-  <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   </a>
@@ -73,8 +71,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
   </a>
-  </p>
-  <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
@@ -107,8 +103,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/>
   </a>
-  </p>
-  <p align="left">
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
   </a>
