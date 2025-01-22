@@ -123,20 +123,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 </p>
 
 
-
-
----
-
-### 📍 **Smart India Hackathon 2024**
-- **Team Name**: InnovatorsX  
-- **Problem Statement**: [SIH 1748 - NCIIPC](https://www.sih.gov.in/)  
-- **Location**: IIT Jammu  
-- **Skills Used**: IoT, Security, Problem Solving  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Smart_India_Hackathon-2024-brightgreen" alt="SIH 2024" />
-</div>
-
 ---
 
 ### 📊 **GitHub Stats**
