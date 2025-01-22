@@ -7,8 +7,8 @@
 ### 🌟 **About Me**
 - 🔭 Currently working on **Full-Stack Web Development**  
 - 🌱 Actively learning **Smart Contract**  
-- 👀 Passionate about **E-commerce solutions and innovative platforms**  
-- 💞️ Open to collaborations in **Web3 Full Stack Development and E-commerce projects**  
+- 👀 Passionate about **Web 3.0 and AI projects**  
+- 💞️ Open to collaborations in **Web3 Full Stack Development and Smart contract projects**  
 - 📫 Reach me at **[jaig7335@gmail.com](mailto:jaig7335@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
 - 💬 Favorite Quote: *"Men Are Brave"*  
@@ -36,8 +36,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 </div>
 
 ---
-
-
 
 ### 🛠 **Languages and Tools**
 <p align="center">
@@ -120,10 +118,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-
 </p>
-
-
 
 ---
 
