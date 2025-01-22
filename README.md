@@ -120,7 +120,11 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
+  <p>
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&" alt="jaiganesh2108" style="margin-top: 20px;" />
 </p>
+</p>
+
 
 
 ---
