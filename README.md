@@ -44,58 +44,93 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" width="40" height="40" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="Ethereum" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
       </td>
-      <td align="center" width="80" style="background-color: purple; border-radius: 8px; padding: 10px;">
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+      </td>
+      <td align="center" style="background-color: purple; border-radius: 8px; padding: 10px;">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v12e8bafa849bf64f2a5cf3a99a8c5552f34f2c6ac7741c1b59dc0a2099e54bff/firebase/images/lockup.svg" alt="Firebase" width="40" height="40" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
