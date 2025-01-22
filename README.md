@@ -133,6 +133,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
     <p>
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&" alt="jaiganesh2108" style="margin-top: 20px;" />
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="jaiganesh2108" style="margin-top: 20px;" />
 </p>
 </div>
