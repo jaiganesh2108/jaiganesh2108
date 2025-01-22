@@ -53,7 +53,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Solidity_logo.svg" alt="Solidity" width="40" height="40"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
