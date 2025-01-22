@@ -6,7 +6,7 @@
 
 ### 🌟 **About Me**
 - 🔭 Currently working on **Full-Stack Web Development**  
-- 🌱 Actively learning **Web 3.0**  
+- 🌱 Actively learning **Smart Contract**  
 - 👀 Passionate about **E-commerce solutions and innovative platforms**  
 - 💞️ Open to collaborations in **Web3 Full Stack Development and E-commerce projects**  
 - 📫 Reach me at **[jaig7335@gmail.com](mailto:jaig7335@gmail.com)**  
