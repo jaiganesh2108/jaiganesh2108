@@ -38,38 +38,106 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 ---
 
 ### 🛠 **Languages and Tools**
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" style="background-color: #E34F26; padding: 10px; border-radius: 12px;" />
-    <p>HTML5</p>
-  </div>
-  
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" style="background-color: #1572B6; padding: 10px; border-radius: 12px;" />
-    <p>CSS3</p>
-  </div>
-  
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="background-color: #F7DF1E; padding: 10px; border-radius: 12px;" />
-    <p>JavaScript</p>
-  </div>
-  
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" style="background-color: #61DAFB; padding: 10px; border-radius: 12px;" />
-    <p>React</p>
-  </div>
-  
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" style="background-color: #3776AB; padding: 10px; border-radius: 12px;" />
-    <p>Python</p>
-  </div>
-
-  <div style="display: inline-block; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" style="background-color: #007396; padding: 10px; border-radius: 12px;" />
-    <p>Java</p>
-  </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+          <br><small>C</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+          <br><small>C++</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Solidity" width="40" height="40" />
+          <br><small>Solidity</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+          <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="Ethereum" width="40" height="40" />
+          <br><small>Ethereum</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
+          <br><small>Android</small>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <a href="https://canva.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40" />
+          <br><small>Canva</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" />
+          <br><small>Ubuntu</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+          <br><small>Git</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+          <br><small>GitHub</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.pygame.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.pygame.org/docs/_images/pygame_logo.png" alt="Pygame" width="40" height="40" />
+          <br><small>Pygame</small>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <a href="https://web3.foundation/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/web3.svg" alt="Web3" width="40" height="40" />
+          <br><small>Web3</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+          <br><small>Python</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="#" target="_blank" rel="noreferrer">
+          <img src="https://via.placeholder.com/40/007ACC/FFFFFF?text=AI" alt="AI" width="40" height="40" />
+          <br><small>AI</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+          <br><small>React</small>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+          <br><small>Firebase</small>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
