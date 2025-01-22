@@ -115,7 +115,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
