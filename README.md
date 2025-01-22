@@ -101,8 +101,8 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/>
   </a>
- <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Ubuntu_logo_2015.svg" alt="Ubuntu" width="40" height="40"/>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Ubuntu_logo_2.jpg" alt="Ubuntu" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
