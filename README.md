@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
 <h3 align="center">Full-Stack Developer | Android Developer | Web 3.0 Beginner</h3>
 <h3 align="center"> Founder of Starfire </h3>
+<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h3 align="center">Aspiring Developer | Engineering Student | Web 3.0 Enthusiast</h3>
+<h3 align="center">Pursuing [Your Field of Study] at [Your College/University]</h3>
 
 ---
 
