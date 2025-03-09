@@ -109,8 +109,8 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Flutter-logo.svg" alt="Flutter" width="40" height="40"/>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="40" height="40"/>
 </a>
 </p>
 <p align="center">
