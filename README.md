@@ -5,10 +5,10 @@
 ---
 
 ### 🌟 **About Me**
-- 🔭 Currently working on **Full-Stack Web Development**  
+- 🔭 Currently working on **Full-Stack Web Development & Flutter App Development**  
 - 🌱 Actively learning **Smart Contract**  
 - 👀 Passionate about **Web 3.0 and AI projects**  
-- 💞️ Open to collaborations in **Web3 Full Stack Development and Smart contract projects**  
+- 💞️ Open to collaborations in **Web3 Full Stack Development and Mobile App projects**  
 - 📫 Reach me at **[jaig7335@gmail.com](mailto:jaig7335@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
 - 💬 Favorite Quote: *"Men Are Brave"*  
@@ -127,9 +127,6 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
-
----
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak Stats" />
 </p>
