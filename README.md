@@ -5,7 +5,7 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 <a href="#thirumurugan7-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="jaiganesh2108" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
