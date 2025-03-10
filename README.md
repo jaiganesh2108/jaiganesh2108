@@ -4,17 +4,21 @@
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
----
-### 🌟 **About Me**
-- 🔭 Currently working on **Full-Stack Web Development & Flutter App Development**  
-- 🌱 Actively learning **Smart Contract**  
-- 👀 Passionate about **Web 3.0 and AI projects**  
-- 💞️ Open to collaborations in **Web3 Full Stack Development and Mobile App projects**  
-- 📫 Reach me at **[jaig7335@gmail.com](mailto:jaig7335@gmail.com)**  
-- 😄 Pronouns: **He/Him**  
-- 💬 Favorite Quote: *"Men Are Brave"*  
+<a href="#thirumurugan7-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="jaiganesh2108" align="right" />
+</a>
 
----
+- 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
+
+- :speech_balloon: &nbsp;I like to talk about **Flutter**,**AI** and **Web 3.0**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
+- 📫 How to reach me **jaiganeshh574@gmail.com**
+
+
+
+<br>
+
 
 ### 🎮 **Fun Fact**
 Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄
