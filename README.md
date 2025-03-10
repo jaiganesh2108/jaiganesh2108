@@ -3,7 +3,7 @@
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thirumurugan7&label=Profile%20views&color=0e75b6&style=flat" alt="thirumurugan7" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 ### 🌟 **About Me**
 - 🔭 Currently working on **Full-Stack Web Development & Flutter App Development**  
 - 🌱 Actively learning **Smart Contract**  
