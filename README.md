@@ -137,4 +137,5 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 </div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak Stats" />
+    <img src="https://wakatime.com/share/@jaiganesh2108/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
 </div>
