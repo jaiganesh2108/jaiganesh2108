@@ -1,14 +1,13 @@
 <h1 align="center">Hi there 👋 I'm Jai Ganesh H</h1>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web3.0+Developer;Software+Developer;Aspiring+Developer;Engineering+Student;Web+3.0+Enthusiast" alt="Typing SVG" /></a>
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right"/>
 </div>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 <a href="#jaiganesh2108-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
+    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/>
 </a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
