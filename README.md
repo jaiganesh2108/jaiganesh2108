@@ -5,7 +5,36 @@
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
+For GitHub profile README, GitHub does not support JavaScript execution, but you can use different badges for light and dark themes using GitHub's theme parameter in the image URL.
+
+Solution: Use theme Parameter
+
+You can modify your GitHub profile views counter to support both themes like this:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat&theme=light" alt="jaiganesh2108" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=ffffff&style=flat&theme=dark" alt="jaiganesh2108" />
+</p>
+
+Alternative: Use picture Tag (Markdown Not Supported)
+
+If GitHub ever supports HTML fully in the future, you can try:
+
+<p align="center">
+  <picture>
+    <source srcset="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=ffffff&style=flat" media="(prefers-color-scheme: dark)">
+    <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108">
+  </picture>
+</p>
+
+Since GitHub Markdown does not support picture, you might have to rely on just a single color or manually switch between light and dark mode colors.
+
+Would you like a different badge style for better visibility in dark mode?
+
+
 <a href="#jaiganesh2108-title">
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/>
 </a>
