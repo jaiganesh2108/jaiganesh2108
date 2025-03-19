@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Jai Ganesh H</h1>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web3.0+Developer;Software+Developer;Aspiring+Developer;Engineering+Student;Web+3.0+Enthusiast" alt="Typing SVG" /></a>
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 </div>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
