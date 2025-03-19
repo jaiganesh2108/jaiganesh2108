@@ -4,7 +4,7 @@
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
-<a href="#thirumurugan7-title">
+<a href="#jaiganesh2108-title">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"align="right" />
 </a>
 
