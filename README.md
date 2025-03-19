@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
 <h3 align="center">Aspiring Developer | Engineering Student | Web 3.0 Enthusiast</h3>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web3.0+Developer;Software+Developer" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
