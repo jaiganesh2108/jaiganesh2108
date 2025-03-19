@@ -141,4 +141,3 @@ Did you know? I love solving coding challenges and can solve problems faster tha
 <div align="center">
     <a href="https://github.com/jaiganesh2108/jaiganesh2108"><img alt="jaiganesh2108's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jaiganesh2108&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
-&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true
