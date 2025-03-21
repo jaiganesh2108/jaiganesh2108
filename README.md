@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat&theme=light" alt="jaiganesh2108" />
 </p>
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+</div>
 
 <a href="#jaiganesh2108-title">
     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/>
