@@ -140,7 +140,7 @@ Did you know? I love solving coding challenges and can solve problems faster tha
   <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 <div align="center">
     <a href="https://github.com/jaiganesh2108/jaiganesh2108"><img alt="jaiganesh2108's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jaiganesh2108&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
