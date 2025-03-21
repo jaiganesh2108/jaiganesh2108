@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Jai Ganesh H</h1>
+<h1 align="center">Hi there 👋 I'm Jai Ganesh H !</h1>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Aspiring+Developer;Engineering+Student" alt="Typing SVG" /></a>
 </div>
@@ -16,12 +16,11 @@
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
-- :speech_balloon: &nbsp;I like to talk about **Flutter**,**AI** and **Web 3.0**
+- :speech_balloon: &nbsp;I like to talk about **Flutter**, **AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **jaiganeshh574@gmail.com**
-
-
+- If you copy my code **YOU ARE MY FRIEND** 
 
 <br>
 
