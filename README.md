@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=ffffff&style=flat&theme=dark" alt="jaiganesh2108" />
-</p>
-
-<p align="center">
   <picture>
     <source srcset="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=ffffff&style=flat" media="(prefers-color-scheme: dark)">
     <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108">
