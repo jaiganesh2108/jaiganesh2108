@@ -20,7 +20,7 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **jaiganeshh574@gmail.com**
-- If you copy my code **YOU ARE MY FRIEND** 
+- If you copy my code then**YOU ARE MY FRIEND !** 
 
 <br>
 
