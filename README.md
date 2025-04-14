@@ -6,9 +6,7 @@
 <h3 align="center">STARFIRE 🚀</h3>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat&theme=light" alt="jaiganesh2108" />
-</p>
+
 
 <a href="#jaiganesh2108-title">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaiganesh2108&theme=transparent" alt="GitHub Streak" /></a>
