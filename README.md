@@ -8,10 +8,8 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 
-![jaiganesh2108's Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=neon&show_icons=true&hide_border=true&count_private=true)
-<a href="#jaiganesh2108-title">
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganeshh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/> 
-</a>
+
+![adityajha2005's Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=neon&show_icons=true&hide_border=true&count_private=true)
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
