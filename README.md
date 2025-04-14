@@ -11,8 +11,7 @@
 </p>
 
 <a href="#jaiganesh2108-title">
-    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/>
-</a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaiganesh2108&theme=transparent" alt="GitHub Streak" /></a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
