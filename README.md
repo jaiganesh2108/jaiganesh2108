@@ -6,17 +6,19 @@
 <h3 align="center">STARFIRE 🚀</h3>
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 
 <a href="#jaiganesh2108-title">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jaiganesh2108&theme=transparent" alt="GitHub Streak" /></a>
+    <img height="192px" src="https://github-readme-stats.vercel.app/api?username=jaiganeshh2108&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" align="right"/></a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
-- :speech_balloon: &nbsp;I like to talk about **Flutter**, **AI** and **Web 3.0**
+- :speech_balloon: &nbsp;I like to talk about **Innovation**, **AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **jaiganeshh574@gmail.com**
-- If you copy my code then **YOU ARE MY FRIEND !** 
+- If you copy my code then **YOU ARE MY FRIEND !**
+- "MEN ARE BRAVE"
 <br>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
