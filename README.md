@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
 
 
-![jaiganesh2108's Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=neon&show_icons=true&hide_border=true&count_private=truealign=right)
+![jaiganesh2108's Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=neon&show_icons=true&hide_border=true&count_private=truealign=left)
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
