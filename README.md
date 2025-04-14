@@ -17,15 +17,12 @@
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **jaiganeshh574@gmail.com**
 - If you copy my code then **YOU ARE MY FRIEND !** 
-<div align=right>
-<img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-</div>
-
 <br>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
+<br>
 ---
 
 ### 🎮 **Fun Fact**
