@@ -8,7 +8,7 @@
 ---
 
 <a href="#jaiganesh2108-title">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaiganesh2108&theme=transparent" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jaiganesh2108&theme=transparent" alt="GitHub Streak" /></a>
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
