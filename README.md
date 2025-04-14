@@ -7,7 +7,6 @@
 
 ---
 
-
 <a href="#jaiganesh2108-title">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaiganesh2108&theme=transparent" alt="GitHub Streak" /></a>
 
@@ -20,6 +19,9 @@
 - If you copy my code then **YOU ARE MY FRIEND !** 
 
 <br>
+<div align=right>
+<img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+</div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
