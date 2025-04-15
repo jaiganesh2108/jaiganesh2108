@@ -18,7 +18,7 @@
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **jaiganeshh574@gmail.com**
 - If you copy my code then **YOU ARE MY FRIEND !**
-- "MEN ARE BRAVE"
+- "MEN ARE BRAVE!"
 <br>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
