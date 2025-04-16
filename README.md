@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-## 🌟 STARFIRE 🌟
+## 🌟 My Stuff's🌟
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
