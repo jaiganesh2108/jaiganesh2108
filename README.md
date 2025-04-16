@@ -1,150 +1,136 @@
-<h1 align="center">Hi there 👋 I'm Jai Ganesh H !</h1>
+<h1 align="center">👋 Hi there, I'm Jai Ganesh H!</h1>
+
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Aspiring+Developer;Engineering+Student" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Engineering+Student" alt="Typing SVG" /></a>
 </div>
-<h3 align="center">Love learning and Innovating new things!</h3>
-<h3 align="center">STARFIRE 🚀</h3>
 
----
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat" alt="jaiganesh2108" /> </p>
+<h3 align="center">✨ Innovating Today for a Better Tomorrow ✨</h3>
+<h3 align="center">🚀 STARFIRE 🚀</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=neon&show_icons=true&hide_border=true&count_private=true" />
-
-
-- 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
-
-- :speech_balloon: &nbsp;I like to talk about **Innovation**, **AI** and **Web 3.0**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
-- :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
-- 📫 How to reach me **jaiganeshh574@gmail.com**
-- If you copy my code then **YOU ARE MY FRIEND !**
-- "MEN ARE BRAVE!"
-<br>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+    <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+    <a href="https://linkedin.com/in/jai-ganesh-h-588a48321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:jaiganeshh574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="http://instagram.com/jg_official_2005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br>
-
-
----
-
-### 🎮 **Fun Fact**
-Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="500" height="300"/>
 </div>
 
----
+## 💫 About Me
 
-### 🌐 **Connect with Me**
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+
+- 🎓 Pursuing **B.E in Computer Science** at JEC'27
+- 💡 Passionate about **Innovation**, **AI** and **Web 3.0**
+- 💻 Full-stack developer with experience in Web & Mobile
+- 🌐 Currently exploring Blockchain technology and Smart Contracts
+- 📫 Reach me at: **jaiganeshh574@gmail.com**
+- 👨‍💻 "If you copy my code then **YOU ARE MY FRIEND!**"
+- 💪 "MEN ARE BRAVE!"
+
+<br clear="right">
+
+## 🔥 GitHub Streak
+
 <div align="center">
-  <a href="http://instagram.com/jg_official_2005" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=radical&hide_border=true" alt="GitHub Streak" width="70%">
+</div>
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend & Backend</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+</p>
+</details>
+
+<details open>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+</p>
+</details>
+
+<details open>
+<summary><b>Design</b></summary>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+</p>
+</details>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/jaiganesh2108/jaiganesh2108">
+    <img alt="Jai's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jaiganesh2108&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
   </a>
 </div>
 
----
+## 🎮 Fun Fact
 
-### 🛠 **Languages and Tools**
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="Ethereum" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="40" height="40"/>
-</a>
-</p>
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
-</div>
-<div align="center">
-    <a href="https://github.com/jaiganesh2108/jaiganesh2108"><img alt="jaiganesh2108's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jaiganesh2108&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  </div>
 
+<div align="center">
+  <i>💡 Did you know? I love solving coding challenges and can solve problems faster than a compiler can compile! 😄</i>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
+</div>
