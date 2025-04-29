@@ -72,8 +72,7 @@
       </td>
       <td align="center" width="33%">
         <h3>Frontend & Backend</h3>
-        <img src="https://skillicons.dev/icons?i=react,django,flutter,firebase,androidstudio" alt="Frontend & Backend" /><br>
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+        <img src="https://skillicons.dev/icons?i=react,django,flutter,firebase,androidstudio" alt="Frontend & Backend" />
       </td>
       <td align="center" width="33%">
         <h3>Database & DevOps</h3>
