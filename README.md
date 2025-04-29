@@ -72,7 +72,7 @@
       </td>
       <td align="center" width="33%">
         <h3>Frontend & Backend</h3>
-        <img src="https://skillicons.dev/icons?i=react,django,flutter,firebase,androidstudio" alt="Frontend & Backend" />
+        <img src="https://skillicons.dev/icons?i=react,django,flutter,firebase,androidstudio,nodejs" alt="Frontend & Backend" />
       </td>
       <td align="center" width="33%">
         <h3>Database & DevOps</h3>
