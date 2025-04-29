@@ -67,7 +67,7 @@
     <tr>
       <td align="center" width="33%">
         <h3>Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin" alt="Languages" /><br>
+        <img src="https://skillicons.dev/icons?i=python,js,dart,kotlin,c,cpp" alt="Languages" /><br>
         <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
       </td>
       <td align="center" width="33%">
