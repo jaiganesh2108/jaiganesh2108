@@ -18,12 +18,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="jaiganesh2108" />
-</div>
-
-<br>
-
 ## 🌌 About Me
 
 <div align="center">
@@ -95,10 +89,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github.com/jaiganesh2108/jaiganesh2108/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ## 🎉 Fun Facts & Vibes
