@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=180&section=header&text=Jai%20Ganesh%20H&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=180§ion=header&text=Jai%20Ganesh%20H&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&height=50&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Engineering+Student;Founder+of+Starfire" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=2ECC71&background=1A1B27¢er=true&vCenter=true&width=550&height=50&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Engineering+Student;Founder+of+Starfire" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,8 +20,8 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=vue&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=vue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=1A1B27&title_color=2ECC71&text_color=FFFFFF&icon_color=2ECC71" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&background=1A1B27&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2ECC71&sideLabels=FFFFFF" width="48%" />
 </div>
 
 <br>
@@ -57,9 +57,9 @@
 ## 🌟 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&theme=vue&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiganesh2108&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=1A1B27&title_color=2ECC71&text_color=FFFFFF&icon_color=2ECC71" alt="Top Languages" width="48%" />
   <a href="https://github.com/jaiganesh2108">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=vue&bg_color=1a1b27&color=2ECC71&line=27AE60&point=FFFFFF&hide_border=true&custom_title=Contribution%20Timeline" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=react-dark&bg_color=1A1B27&color=2ECC71&line=27AE60&point=FFFFFF&hide_border=true&custom_title=Contribution%20Timeline" width="48%" />
   </a>
 </div>
 
@@ -97,13 +97,13 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://readme-jokes.vercel.app/api?theme=vue&borderColor=none" alt="Jokes Card" width="90%" />
+        <img src="https://readme-jokes.vercel.app/api?theme=onedark&borderColor=none" alt="Jokes Card" width="90%" />
       </td>
-      <td width="50 Distance between images in top section too big, fix it please%">
+      <td width="50%">
         <blockquote>
           Did you know? I solve coding challenges faster than a compiler! 😎
         </blockquote>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" width="90%" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="90%" />
       </td>
     </tr>
   </table>
@@ -119,5 +119,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=120§ion=footer&animation=twinkling" width="100%" />
 </div>
