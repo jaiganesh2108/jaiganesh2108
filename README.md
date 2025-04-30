@@ -14,13 +14,12 @@
   <a href="mailto:jaiganeshh574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="http://instagram.com/jg_official_2005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/your_x_handle"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://discord.gg/your_discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="jaiganesh2108" />
 </div>
 
 <br>
@@ -43,7 +42,6 @@
         <li>🚀 Passionate about <b>AI</b>, <b>Web 3.0</b>, and <b>Innovation</b></li>
         <li>💻 Crafting seamless <b>Web & Mobile</b> experiences as a Full-Stack Developer</li>
         <li>🔗 Diving deep into <b>Blockchain</b> and <b>Smart Contracts</b></li>
-        <li>🌱 Currently exploring <b>TensorFlow</b> and <b>Advanced React Patterns</b></li>
         <li>📬 Reach me at: <b>jaiganeshh574@gmail.com</b></li>
         <li>😎 <i>"Copy my code? You're my friend!"</i></li>
         <li>💪 <b>"Men Are Brave!"</b></li>
@@ -52,13 +50,12 @@
     <td valign="top" width="40%">
       <div align="center">
         <h3>🛠️ Tech Superpowers</h3>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
       </div>
     </td>
   </tr>
@@ -73,17 +70,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/jaiganesh2108/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=project-name&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00C4B4&icon_color=00C4B4" />
-  </a>
-  <a href="https://github.com/jaiganesh2108/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=another-project&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00C4B4&icon_color=00C4B4" />
-  </a>
-</div>
-
 ## 🧰 Technology Arsenal
 
 <div align="center">
@@ -91,7 +77,7 @@
     <tr>
       <td align="center" width="33%">
         <h3>💻 Languages</h3>
-        <img src="https://skillicons.dev/icons?i=python,js,dart,kotlin,c,cpp,solidity,typescript" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=python,js,dart,kotlin,c,cpp,solidity" alt="Languages" />
       </td>
       <td align="center" width="33%">
         <h3>🌐 Frontend & Backend</h3>
@@ -105,25 +91,14 @@
     <tr>
       <td align="center" colspan="3">
         <h3>🛠️ Tools & Platforms</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,figma,linux,ubuntu,canva,aws,vercel" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=vscode,figma,linux,ubuntu,canva" alt="Tools" />
       </td>
     </tr>
   </table>
 </div>
 
-## 🚀 Current Focus
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Development" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/jaiganesh2108/jaiganesh2108/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://github.com/jaiganesh2108/jaiganesh2108/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ## 🎉 Fun Facts & Vibes
@@ -149,10 +124,9 @@
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
   <p>Got a cool project or just want to geek out? Hit me up!</p>
-  <a href="https://linkedin.com/in/jai-ganesh-h-588a48321"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:jaiganeshh574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
-  <a href="https://x.com/your_x_handle"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
-  <a href="https://discord.gg/your_discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" /></a>
+  <a href="https://linkedin.com/in/jai-ganesh-h-588a48321"><img src="https://img.shields.io/badge/Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:jaiganeshh574@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="https://x.com/your_x_handle"><img src="https://img.shields.io/badge/Follow-000000?style=flat-square&logo=x&logoColor=white" alt="Follow on X" /></a>
 </div>
 
 <br>
