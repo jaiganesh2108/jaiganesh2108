@@ -91,6 +91,12 @@
   </table>
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6&no-bg=true" alt="GitHub Trophies" width="100%" />
+</div>
+
 ## 🎉 Fun Facts & Vibes
 
 <table width="100%">
@@ -110,12 +116,6 @@
     </td>
   </tr>
 </table>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6&no-bg=true" alt="GitHub Trophies" width="100%" />
-</div>
 
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
