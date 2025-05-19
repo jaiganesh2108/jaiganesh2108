@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 </div>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=800&color=00C4B4&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Begineer;AI+%26+ML+Developer;" alt="Typing SVG" />
