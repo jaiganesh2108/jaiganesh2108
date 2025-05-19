@@ -116,6 +116,8 @@
   </tr>
 </table>
 
+---
+
 <div align="center">
   <h3>🤝 Let's Connect!</h3>
   <p>Got a cool project or just want to geek out? Hit me up!</p>
