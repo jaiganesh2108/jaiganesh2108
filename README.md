@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=800&color=00C4B4&center=true&vCenter=true&width=650&height=70&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Begineer;AI+%26+ML+Developer;" alt="Typing SVG" />
   </a>
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=00C4B4&style=flat-square" alt="profile views" />
   <a href="https://linkedin.com/in/jai-ganesh-h-588a48321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
