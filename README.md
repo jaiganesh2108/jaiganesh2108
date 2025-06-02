@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Developer&descAlignY=55&descSize=18" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Engineer;%F0%9F%93%B1+Mobile+App+Developer;%E2%9B%93+Blockchain+%26+Web3+Developer;%F0%9F%92%A1+Innovation+%26+Technology+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="profile views" />
