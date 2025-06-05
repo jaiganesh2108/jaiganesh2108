@@ -67,19 +67,32 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <h4>Programming Languages</h4>
         <img src="https://skillicons.dev/icons?i=python,js,dart,kotlin,c,cpp,solidity&theme=dark" alt="Languages" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
+        <h4>AI/ML & Python</h4>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI/ML" />
+        <br><br>
+        <img src="https://img.shields.io/badge/NumPy-1e3a8a?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/Pandas-1e3a8a?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+        <br>
+        <img src="https://img.shields.io/badge/Scikit--learn-1e3a8a?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        <img src="https://img.shields.io/badge/OpenCV-1e3a8a?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <br>
+        <img src="https://img.shields.io/badge/Matplotlib-1e3a8a?style=flat&logo=plotly&logoColor=white" alt="Matplotlib"/>
+        <img src="https://img.shields.io/badge/Keras-1e3a8a?style=flat&logo=keras&logoColor=white" alt="Keras"/>
+      </td>
+      <td align="center" width="20%">
         <h4>Frontend Development</h4>
         <img src="https://skillicons.dev/icons?i=react,html,css,flutter,androidstudio&theme=dark" alt="Frontend" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <h4>Backend & Database</h4>
         <img src="https://skillicons.dev/icons?i=django,nodejs,express,mysql,mongodb&theme=dark" alt="Backend" />
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <h4>DevOps & Tools</h4>
         <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vscode&theme=dark" alt="Tools" />
       </td>
