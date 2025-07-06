@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=22c55e&center=true&vCenter=true&width=500&height=60&lines=Python+Developer;Full-Stack+Developer;Mobile+App+Developer;AI+%26+ML+Enthusiast;Blockchain+Begineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=22c55e&center=true&vCenter=true&width=500&height=60&lines=Python+Developer;Full-Stack+Developer;AI+%26+ML+Enthusiast;Blockchain+Begineer;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,7 +35,6 @@
         <li>🎓 <strong>B.E in Computer Science</strong> - JEC'27</li>
         <li>💼 Full-Stack Developer specializing in <strong>Web & Mobile Applications</strong></li>
         <li>🤖 AI & Machine Learning Developer</li>
-        <li>🔗 Blockchain Technology Enthusiast</li>
         <li>🚀 Passionate about cutting-edge technology and innovation</li>
         <li>📧 Contact: <strong>jaiganeshh574@gmail.com</strong></li>
       </ul>
@@ -110,8 +109,7 @@
 
 - 🔬 Exploring advanced AI/ML algorithms and their practical applications
 - 🌐 Building scalable web applications with modern frameworks
-- 📱 Developing cross-platform mobile solutions
-- ⛓️ Learning blockchain development and smart contract implementation
+- 📱 Developing cross-platform web and mobile solutions
 - 🚀 Contributing to open-source projects
 
 ---
