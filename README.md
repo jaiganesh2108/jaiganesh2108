@@ -35,9 +35,7 @@ I'm **Jai Ganesh H**, a passionate developer who thrives on solving real-world p
 
 ---
 
-## 📊 Programming Languages (Visual Emphasis)
-
-> Based on the languages highlighted in this README
+## 📊 Programming Languages Used
 
 ```plaintext
 Python       ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  20%
