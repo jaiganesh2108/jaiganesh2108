@@ -35,9 +35,16 @@ I'm **Jai Ganesh H**, a passionate developer who thrives on solving real-world p
 
 ---
 
-## 🔗 Github Analysis 
-![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=radical&hide_border=true) 
+## 🔗 GitHub Analysis
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" />
+</div>
+ 
 ---
 
 ## 📊 GitHub Stats
