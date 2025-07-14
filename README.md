@@ -35,18 +35,8 @@ I'm **Jai Ganesh H**, a passionate developer who thrives on solving real-world p
 
 ---
 
-## 📊 Programming Languages Used
-
-```plaintext
-Python       ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  20%
-JavaScript   ▓▓▓▓▓▓▓▓▓░░░░░░░░░  15%
-HTML/CSS     ▓▓▓▓▓▓▓▓▓░░░░░░░░░  15%
-Dart         ▓▓▓▓▓░░░░░░░░░░░░░  10%
-Solidity     ▓▓▓▓▓░░░░░░░░░░░░░  10%
-Kotlin       ▓▓▓▓▓░░░░░░░░░░░░░  10%
-C / C++      ▓▓▓▓▓░░░░░░░░░░░░░  10%
-Others       ▓▓▓▓▓░░░░░░░░░░░░░  10%
-```
+## 🔗 Github Analysis 
+![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=radical&hide_border=true) 
 
 ---
 
