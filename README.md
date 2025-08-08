@@ -77,14 +77,6 @@ I'm **Jai Ganesh H**, a passionate developer who thrives on solving real-world p
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jaiganesh2108/jaiganesh2108/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
