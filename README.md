@@ -29,6 +29,12 @@
 ---
 
 ## 👨‍💻 About Me
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" align="left">
+
 I'm **Jai Ganesh H**, a passionate developer who thrives on solving real-world problems using technology.  
 Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
@@ -37,6 +43,15 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 - 🛠️ Blockchain Exploration (Solidity + Web3)  
 - 🧠 Building, learning & contributing to open-source projects  
 - 🏆 Finalist in **Smart India Hackathon 2024**
+
+</td>
+<td width="40%" align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
