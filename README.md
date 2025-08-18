@@ -1,29 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=60&lines=Software+Engineer;Python+Developer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+to+code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist" alt="Typing SVG" />
-  </a>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> </div> <!-- Typing Animation --> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Software+Engineer;Python+Developer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+to+code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist" alt="Typing SVG" /> </a> </div>
 
 <!-- Social Links -->
 <p align="center">
   <a href="mailto:jaiganeshh574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFD700?style=flat&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-00FF00?style=flat&logo=gmail&logoColor=black" />
   </a>
   <a href="https://linkedin.com/in/jai-ganesh-h-588a48321">
-    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=flat&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=flat&logo=linkedin&logoColor=black" />
   </a>
   <a href="http://instagram.com/jg_official_2005">
-    <img src="https://img.shields.io/badge/Instagram-FFD700?style=flat&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Instagram-00FF00?style=flat&logo=instagram&logoColor=black" />
   </a>
   <a href="https://x.com/JaiGaneshh95881">
-    <img src="https://img.shields.io/badge/X-FFD700?style=flat&logo=x&logoColor=black" />
+    <img src="https://img.shields.io/badge/X-00FF00?style=flat&logo=x&logoColor=black" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=FFD700&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=00FF00&style=flat" />
 </p>
 
 ---
@@ -56,6 +47,13 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 ---
 
 ## 🛠️ Tech Stack
+<!-- 3D Animated Icons -->
+<p align="center">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
+</p>
+
 <table>
 <tr>
 <th>💻 Languages</th>
@@ -70,10 +68,10 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </td>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br/>
-  <img src="https://img.shields.io/badge/Numpy-FFD700?style=flat&logo=numpy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-FFD700?style=flat&logo=pandas&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/Scikit--learn-FFD700?style=flat&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-FFD700?style=flat&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/Numpy-00FF00?style=flat&logo=numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-00FF00?style=flat&logo=pandas&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-00FF00?style=flat&logo=scikit-learn&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-00FF00?style=flat&logo=opencv&logoColor=black" />
 </td>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
@@ -86,6 +84,16 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </td>
 </tr>
 </table>
+
+---
+
+## 🦉 Duolingo Progress
+<p align="center">
+  <a href="https://www.duolingo.com/profile/JaiGanesh221041">
+    <img src="https://img.shields.io/badge/Duolingo-Spanish-00FF00?style=for-the-badge&logo=duolingo&logoColor=black" />
+    <img src="https://img.shields.io/badge/Streak🔥-150%20days-00FF00?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -102,19 +110,19 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&dates=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&dates=c9d1d9" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </div>
 
 ---
 
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=darkhub&no-frame=true&column=6&no-bg=true&title_color=FFD700" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=darkhub&no-frame=true&column=6&no-bg=true&title_color=00FF00" />
 </div>
 
 ---
@@ -130,15 +138,15 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="https://linkedin.com/in/jai-ganesh-h-588a48321">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="mailto:jaiganeshh574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FFD700?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-Contact-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
 </div>
