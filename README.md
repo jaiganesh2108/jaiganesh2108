@@ -1,8 +1,6 @@
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
 </div> 
-
-
 <!-- Typing Animation -->
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -55,7 +53,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Daily Stuffs
 <!-- 3D Animated Icons -->
 <p align="center">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80"/>
@@ -63,7 +61,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
 </p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,flutter,django,solidity,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,cpp,html,css,vite,vercel,graphql,unity,gcp,sqlite,jenkins,gitlab,bootstrap,tailwind,figma,materialui,ubuntu,bash,photoshop,godot,postman,blender,threejs,ai,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,flutter,django,solidity,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,cpp,html,css,vite,vercel,netlify,graphql,unity,gcp,sqlite,jenkins,gitlab,bootstrap,tailwind,figma,materialui,ubuntu,bash,photoshop,godot,postman,blender,threejs,ai,kotlin,webpack,npm,yarn,powershell,pnpm,cypress,prisma,postgresql,sequelize,aws,jquery,redux,remix,wordpress" />
 </div>
 
 ---
