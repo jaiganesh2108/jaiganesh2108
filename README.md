@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
 </div> 
 
+
 <!-- Typing Animation -->
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=60&lines=Software+Engineer;Python+Developer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+to+code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=60&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+For+Fun" alt="Typing SVG" /> 
   </a> 
 </div>
 
@@ -50,7 +51,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -98,14 +98,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ---
 
-## 📌 Currently Focusing On
-- ✨ Building production-grade full-stack applications  
-- 🧠 Enhancing my AI/ML expertise with real-world problem-solving  
-- 🧬 Exploring smart contracts and DApps using Solidity + Python + React  
-- 👥 Collaborating on open-source projects & hackathons  
-
----
-
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="https://linkedin.com/in/jai-ganesh-h-588a48321">
@@ -115,8 +107,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
     <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
