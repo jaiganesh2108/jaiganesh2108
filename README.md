@@ -25,6 +25,12 @@
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=2ea44f&style=flat" />
 </p>
 
+<h1 align="center">
+  Vanakkam 
+  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
+       alt="🙏" width="40" height="40" />
+</h1>
+
 ---
 
 ## 👨‍💻 About Me
@@ -105,11 +111,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
     <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-<h1 align="center">
-  Vanakkam 
-  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
-       alt="🙏" width="40" height="40" />
-</h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
