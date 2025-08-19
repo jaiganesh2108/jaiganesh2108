@@ -53,47 +53,8 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
 </p>
-
-<table>
-<tr>
-<th>💻 Languages</th>
-<th>🧠 AI/ML/DS</th>
-<th>🌐 Frontend</th>
-<th>🔙 Backend & DB</th>
-<th>⚙️ Tools</th>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,dart,solidity,kotlin,c,cpp" />
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br/>
-  <img src="https://img.shields.io/badge/Numpy-00FF00?style=flat&logo=numpy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-00FF00?style=flat&logo=pandas&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/Scikit--learn-00FF00?style=flat&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-00FF00?style=flat&logo=opencv&logoColor=black" />
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css" />
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql" />
-</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vscode" />
-</td>
-</tr>
-</table>
-
----
-
-## 🦉 Duolingo Progress
-<p align="center">
-  <a href="https://www.duolingo.com/profile/JaiGanesh221041">
-    <img src="https://img.shields.io/badge/Duolingo-Spanish-00FF00?style=for-the-badge&logo=duolingo&logoColor=black" />
-    <img src="https://img.shields.io/badge/Streak🔥-150%20days-00FF00?style=for-the-badge" />
-  </a>
-</p>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,react,flutter,django,solidity,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,cpp,html,css,vite,vercel,graphql,unity,gcp,jenkins" />
+</div>
 
 ---
 
