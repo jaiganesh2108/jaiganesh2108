@@ -25,17 +25,14 @@
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=2ea44f&style=flat" />
 </p>
 
+---
+
 <h1 align="center">
   Vanakkam 
   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
        alt="🙏" width="40" height="40" />
 </h1>
-
----
-
-## 👨‍💻 About Me
 <div align="center">
-
 <table>
 <tr>
 <td width="60%" align="left">
