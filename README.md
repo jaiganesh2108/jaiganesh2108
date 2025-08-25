@@ -64,6 +64,13 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ---
 
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=darkhub&no-frame=true&column=6&no-bg=true&title_color=2ea44f" />
+</div>
+
+---
+
 ## 🔗 GitHub Analysis
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="95%" />
@@ -73,9 +80,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" />
 </div>
 
----
-
-## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="48%" />
@@ -87,9 +91,13 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=darkhub&no-frame=true&column=6&no-bg=true&title_color=2ea44f" />
+<div align="center"><p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hackathon%20Finalist-ff9800?style=for-the-badge&logo=devpost" />
+  <img src="https://img.shields.io/badge/Blockchain%20Explorer-8e44ad?style=for-the-badge&logo=ethereum" />
 </div>
 
 ---
