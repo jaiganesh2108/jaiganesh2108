@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
+  <img  src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
 </div> 
 <!-- Typing Animation -->
 <div align="center"> 
