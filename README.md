@@ -96,7 +96,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-2ea44f?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Hackathon%20Finalist-ff9800?style=for-the-badge&logo=devpost" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ff9800?style=for-the-badge&logo=devpost" />
   <img src="https://img.shields.io/badge/Blockchain%20Explorer-8e44ad?style=for-the-badge&logo=ethereum" />
 </div>
 
