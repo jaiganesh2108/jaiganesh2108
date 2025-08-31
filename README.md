@@ -87,7 +87,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" width="35%"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
 </div>
 
