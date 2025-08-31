@@ -124,6 +124,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </p>
 
 <div align="center">
-  <h2 align="center">Thanks for visiting! 🙏</h2>
+  <p align="center">Thanks for visiting! 🙏</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
 </div>
