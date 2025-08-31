@@ -4,26 +4,36 @@
 <!-- Typing Animation -->
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=60&lines=CEO+%26+Founder+of+Starfire+Labs;Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+For+Fun" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=CEO+%26+Founder+of+Starfire+Labs;Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+For+Fun" alt="Typing SVG" /> 
   </a> 
 </div>
 
-<!-- Social Links -->
+<!-- 🌐 Social Links -->
 <p align="center">
+  <!-- Gmail -->
   <a href="mailto:jaiganeshh574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2ea44f?style=flat&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jai-ganesh-h-588a48321">
-    <img src="https://img.shields.io/badge/LinkedIn-2ea44f?style=flat&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  
+  <!-- Instagram -->
   <a href="http://instagram.com/jg_official_2005">
-    <img src="https://img.shields.io/badge/Instagram-2ea44f?style=flat&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
+  
+  <!-- X (Twitter) -->
   <a href="https://x.com/JaiGaneshh95881">
-    <img src="https://img.shields.io/badge/X-2ea44f?style=flat&logo=x&logoColor=black" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=2ea44f&style=flat" />
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
+
 
 ---
 
@@ -73,20 +83,21 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ## 🔗 GitHub Analysis
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="95%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="40%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="75%" />
 </div>
 
 ---
