@@ -115,13 +115,22 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ## 🤝 Let’s Connect
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/jai-ganesh-h-588a48321">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2ea44f?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
+  
+  <!-- Gmail -->
   <a href="mailto:jaiganeshh574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-Mail-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="http://instagram.com/jg_official_2005">
+    <img src="https://img.shields.io/badge/Instagram-Follow-2ea44f?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 </p>
+
 
 <div align="center">
   <h1 align="center">Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
