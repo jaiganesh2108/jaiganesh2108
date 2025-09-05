@@ -124,6 +124,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </p>
 
 <div align="center">
-  <p align="center">Thanks for visiting! 🙏</p>
+  <h1 align="center">Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
+       alt="🙏" width="40" height="40" /></h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
 </div>
