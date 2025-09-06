@@ -76,7 +76,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=darkhub&no-frame=true&column=6&no-bg=true&title_color=2ea44f" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -89,6 +89,10 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" width="35%"/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
+
+
+
+
 </div>
 
 <div align="center">
