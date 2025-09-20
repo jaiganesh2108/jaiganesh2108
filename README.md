@@ -38,9 +38,9 @@
 ---
 
 <h1 align="center">
-  Vanakkam Nanba / Nanbi
+  < Vanakkam Nanba/Nanbi 
   <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
-       alt="🙏" width="40" height="40" />
+       alt="🙏" width="40" height="40" /> />
 </h1>
 <div align="center">
 <table>
@@ -137,7 +137,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 
 <div align="center">
-  <h1 align="center">Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
-       alt="🙏" width="40" height="40" /></h1>
+  <h1 align="center"> < Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
+       alt="🙏" width="40" height="40" /> /> </h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
 </div>
