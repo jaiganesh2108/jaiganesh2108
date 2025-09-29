@@ -6,7 +6,8 @@
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=CEO+%26+Founder+of+Starfire+Labs;Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+For+Fun" alt="Typing SVG" /> 
   </a> 
-</div>
+</div> 
+
 
 <!-- 🌐 Social Links -->
 <p align="center">
