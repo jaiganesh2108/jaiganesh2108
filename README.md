@@ -30,11 +30,15 @@
   <a href="https://x.com/JaiGaneshh95881">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  
+
+  <!-- Portfolio -->
+  <a href="https://jaiganeshh-luca.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
-
 
 ---
 
