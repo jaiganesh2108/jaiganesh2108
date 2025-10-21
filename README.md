@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=CEO+%26+Founder+of+Starfire+Labs;Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+For+Fun" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=CEO+%26+Founder+of+Starfire+Labs;Software+Engineer;Full-Stack+Engineer;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+For+Fun" alt="Typing SVG" /> 
   </a> 
 </div> 
 
@@ -55,8 +55,7 @@
 I'm **Jai Ganesh H**, a passionate developer who thrives on solving real-world problems using technology.  
 Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
-- 🌐 Full-Stack Web & Mobile Development  
-- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Full-Stack Web & Mobile Development    
 - 🛠️ Blockchain Exploration (Solidity + Web3)  
 - 🧠 Building, learning & contributing to open-source projects  
 - 🏆 Finalist in **Smart India Hackathon 2024**
