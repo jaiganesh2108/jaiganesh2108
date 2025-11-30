@@ -1,41 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=180&section=header&text=JAI%20GANESH%20H&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
 </div>
 
-<!-- Animated Headline -->
+<!-- Animated Tech Headline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2ea44f&center=true&vCenter=true&width=650&lines=Inventor+%7C+Innovator+%7C+Full-Stack+Developer;Founder+%26+CEO+of+Starfire+Labs;Building+the+Digital+Future;Blockchain+%26+Web3+Learner;Open+Source+Contributor;SIH+2024+Finalist;Code+Is+My+Superpower" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=React+Native+%7C+Node.js+%7C+Blockchain+Developer;Full-Stack+Architect+%26+Tech+Innovator;Founder+%26+CEO+%40+Starfire+Labs;Building+Scalable+Mobile+%26+Web3+Solutions;Smart+India+Hackathon+2024+Finalist;Turning+Code+Into+Digital+Revolution" />
+</div>
+
+<!-- Tech Stack Animated Banner -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,express,mongodb,postgres,redis,aws,docker,git,github,figma,web3,ethereum,solidity&theme=dark&perline=8" />
+</div>
+
+---
+
+## 🧠 **Digital Architect | Code Alchemist**
+
+```javascript
+const jaiGanesh = {
+  code: ["React Native", "Node.js", "Blockchain", "TypeScript"],
+  architecture: ["Microservices", "REST APIs", "Web3 Integration", "Mobile First"],
+  focus: "Building scalable digital solutions that bridge Web2 and Web3",
+  currentRole: "Founder & CEO @ Starfire Labs",
+  mantra: "Code is my canvas, innovation is my brush"
+};
+```
+## 🚀 Building the Future, One Product at a Time
+
+📱 Developing scalable cross-platform mobile ecosystems  
+🔗 Creating real-world Web3 products  
+🤖 Blending AI with Web & Mobile experiences  
+⚡ Passionate about hackathons, startups & hardcore problem solving  
+
+---
+
+## 🏆 Key Highlights
+
+💼 Founder & CEO — Starfire Labs  
+🎯 SIH Finalist – Smart Education Track  
+🧠 Built 15+ commercial-grade apps & platforms  
+🛠 Full-stack experience from idea → design → development → deployment  
+💰 Goal: Become a millionaire by 25 by building impactful AI/Web3 products  
+
+---
+
+## 🔥 Featured Projects
+| Project | Domain | Tech |
+|--------|--------|------|
+| 🔗 ShareAI — Decentralized AI Model Marketplace | Web3 + AI | React, Solidity, Hugging Face, IPFS |
+| 📚 Accessible E-Book App | EdTech | Flutter, Firebase, TTS |
+| 🏫 Smart College Dashboard | ERP | React, Node, MongoDB |
+| 🛰 Crypto Transaction Tracer | Blockchain Analytics | Python, Web3.js |
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- Profile Summary Card -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=react" width="100%" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=react-dark&hide_border=true&radius=8" width="100%" />
+</div>
+
+<br/>
+
+<!-- Stats Row -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jaiganesh2108&theme=react&hide_border=true&border_radius=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&theme=react&hide_border=true" height="165" />
+</div>
+
+<br/>
+
+<!-- Trophy Case -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jaiganesh2108/jaiganesh2108/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+
+---
+
+## 🌍 Connect With Me
+<div align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="45"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="45"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="45"></a>
 </div>
 
 ---
 
 <div align="center">
-  
-### 🌍 **Welcome to my digital space — where ideas turn into innovation.**  
-I build products, break barriers, and craft technology that pushes the world toward the future.  
-
-</div>
-
-## ⚡ About Me
-<p>I’m Jai Ganesh H, a passionate developer who loves turning ideas into real, usable products. I’m currently pursuing B.E. CSE (JEC ‘27) and spend most of my time building full-stack applications, experimenting with Web3, and creating AI-powered tools that solve real problems. I enjoy working on meaningful projects, learning new technologies, and constantly pushing myself to innovate and improve. I also had the opportunity to become a Smart India Hackathon 2024 Finalist, and I’m currently building new products under my initiative — Starfire Labs.</p>
-
-## 🌐 **Socials**
-<div align="center">
-
-<a href="mailto:jaiganeshh574@gmail.com"><img src="https://img.shields.io/badge/Gmail-2ea44f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
-<a href="https://linkedin.com/in/jai-ganesh-h-588a48321"><img src="https://img.shields.io/badge/LinkedIn-2ea44f?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
-<a href="http://instagram.com/jg_official_2005"><img src="https://img.shields.io/badge/Instagram-2ea44f?style=for-the-badge&logo=instagram&logoColor=000" /></a>
-<a href="https://x.com/JaiGaneshh95881"><img src="https://img.shields.io/badge/Twitter-2ea44f?style=for-the-badge&logo=twitter&logoColor=000" /></a>
-<a href="https://jaiganeshh-luca.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=000" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile+Views&color=brightgreen&style=flat" />
-</div>
-
----
-
-<div align="center">
-  <h2>⚔️ Thanks for Scrolling — Keep Building, Keep Evolving ⚔️</h2>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=120&section=footer" width="100%" />
 </div>
