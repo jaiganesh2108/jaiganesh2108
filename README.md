@@ -9,7 +9,7 @@
 
 <!-- Tech Stack Animated Banner -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,express,mongodb,postgres,redis,aws,docker,git,github,figma,web3,ethereum,solidity&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,express,mongodb&theme=dark" />
 </div>
 
 ---
@@ -27,78 +27,63 @@ const jaiGanesh = {
 ```
 ## 🚀 Building the Future, One Product at a Time
 
-📱 Developing scalable cross-platform mobile ecosystems  
-🔗 Creating real-world Web3 products  
-🤖 Blending AI with Web & Mobile experiences  
-⚡ Passionate about hackathons, startups & hardcore problem solving  
+### ⚡ What I Build
+- **Cross-platform mobile ecosystems** with a focus on performance & scalability  
+- **Real-world Web3 products** powered by secure smart contracts  
+- **AI-driven experiences** that merge intelligence with Web & Mobile  
+- **High-impact hackathon projects** crafted with speed, precision & vision  
 
----
+### 🔥 What Drives Me
+- Turning ideas into production-ready products  
+- Engineering solutions that scale to millions  
+- Startup mindset, rapid execution, and deep problem-solving  
 
-## 🏆 Key Highlights
-
-💼 Founder & CEO — Starfire Labs  
-🎯 SIH Finalist – Smart Education Track  
-🧠 Built 15+ commercial-grade apps & platforms  
-🛠 Full-stack experience from idea → design → development → deployment  
-💰 Goal: Become a millionaire by 25 by building impactful AI/Web3 products  
-
----
-
-## 🔥 Featured Projects
-| Project | Domain | Tech |
-|--------|--------|------|
-| 🔗 ShareAI — Decentralized AI Model Marketplace | Web3 + AI | React, Solidity, Hugging Face, IPFS |
-| 📚 Accessible E-Book App | EdTech | Flutter, Firebase, TTS |
-| 🏫 Smart College Dashboard | ERP | React, Node, MongoDB |
-| 🛰 Crypto Transaction Tracer | Blockchain Analytics | Python, Web3.js |
-
----
 
 ## 📊 GitHub Analytics
 
-<!-- Profile Summary Card -->
+<!-- 🌟 Profile Summary (Compact & Centered) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=react" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=react&hide_border=true" width="95%" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- 🔥 Graphs Row (Balanced & Same Width) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=react-dark&hide_border=true&radius=8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=react-dark&hide_border=true&radius=12" width="95%" />
 </div>
 
 <br/>
 
-<!-- Stats Row -->
+<!-- ⚡ Stats Row (Same Height, Tight Layout) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jaiganesh2108&theme=react&hide_border=true&border_radius=6" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&theme=react&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=jaiganesh2108&theme=react&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&theme=react&hide_border=true&rank_icon=github&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&theme=react&hide_border=true&border_radius=10&langs_count=10" height="150" />
 </div>
 
 <br/>
 
-<!-- Trophy Case -->
+<!-- 🏆 Trophies (Compact Single Row) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=onestar&no-frame=true&row=1&margin-w=10" width="95%" />
 </div>
 
 <br/>
 
-<!-- Contribution Snake -->
+<!-- 🧩 Contributor Metrics (Slim Version) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jaiganesh2108/jaiganesh2108/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=jaiganesh2108&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true" width="95%" />
 </div>
 
-
+<br/>
 ---
 
 ## 🌍 Connect With Me
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
+  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="45"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="45"></a>
+  <a href="https://github.com/jaiganesh2108"><img src="https://skillicons.dev/icons?i=github" width="45"></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="45"></a>
 </div>
 
