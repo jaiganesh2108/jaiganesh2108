@@ -4,12 +4,12 @@
 
 <!-- Animated Tech Headline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=React+Native+%7C+Node.js+%7C+Blockchain+Developer;Full-Stack+Architect+%26+Tech+Innovator;Founder+%26+CEO+%40+Starfire+Labs;Building+Scalable+Mobile+%26+Web3+Solutions;Smart+India+Hackathon+2024+Finalist;Turning+Code+Into+Digital+Revolution" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=Mobile+App+%7C+Node.js+%7C+Blockchain+Developer;Full-Stack+Architect+%26+Tech+Innovator;Founder+%26+CEO+%40+Starfire+Labs;Building+Scalable+Mobile+%26+Web3+Solutions;Smart+India+Hackathon+2024+Finalist;Turning+Code+Into+Digital+Revolution" />
 </div>
 
 <!-- Tech Stack Animated Banner -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,solidity,js,ts,python,flutter,kotlin,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,solidity,js,ts,python,flutter,kotlin,express,firebase,mongodb&theme=dark" />
 </div>
 
 ---
