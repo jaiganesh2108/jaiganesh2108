@@ -9,7 +9,7 @@
 
 <!-- Tech Stack Animated Banner -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,solidity,js,ts,python,express,mongodb&theme=dark" />
 </div>
 
 ---
