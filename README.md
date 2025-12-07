@@ -14,6 +14,8 @@
 
 ---
 
+<img width="1584" height="396" alt="Black White Typographic Personal Photo LinkedIn Background Photo" src="https://github.com/user-attachments/assets/dca3dca7-2def-4198-9586-3c8a9bec64e8" />
+
 ## 🧠 **Digital Architect | Code Alchemist**
 
 ```javascript
