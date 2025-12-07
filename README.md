@@ -71,14 +71,6 @@ const jaiGanesh = {
   <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=onestar&no-frame=true&row=1&margin-w=10" width="95%" />
 </div>
 
-<br/>
-
-<!-- 🧩 Contributor Metrics (Slim Version) -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jaiganesh2108&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true" width="95%" />
-</div>
-
-<br/>
 ---
 
 ## 🌍 Connect With Me
