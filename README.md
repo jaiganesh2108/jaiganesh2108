@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=180&section=header&text=JAI%20GANESH%20H&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img width="1584" height="396" alt="Black White Typographic Personal Photo LinkedIn Background Photo" src="https://github.com/user-attachments/assets/dca3dca7-2def-4198-9586-3c8a9bec64e8" />
 </div>
 
 <!-- Animated Tech Headline -->
@@ -9,12 +9,12 @@
 
 <!-- Tech Stack Animated Banner -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,solidity,js,ts,python,flutter,kotlin,express,firebase,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,solidity,js,ts,python,flutter,kotlin,express,firebase,c,cpp,mongodb,github&theme=dark" />
 </div>
 
 ---
 
-<img width="1584" height="396" alt="Black White Typographic Personal Photo LinkedIn Background Photo" src="https://github.com/user-attachments/assets/dca3dca7-2def-4198-9586-3c8a9bec64e8" />
+
 
 ## 🧠 **Digital Architect | Code Alchemist**
 
