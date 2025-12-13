@@ -2,6 +2,8 @@
   <img width="1584" height="396" alt="Black White Typographic Personal Photo LinkedIn Background Photo" src="https://github.com/user-attachments/assets/dca3dca7-2def-4198-9586-3c8a9bec64e8" />
 </div>
 
+---
+
 <!-- Animated Tech Headline -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=750&lines=Mobile+App+%7C+Node.js+%7C+Blockchain+Developer;Full-Stack+Architect+%26+Tech+Innovator;Building+Scalable+Mobile+%26+Web3+Solutions;Smart+India+Hackathon+2024+Finalist;Turning+Code+Into+Digital+Revolution" />
