@@ -22,7 +22,7 @@
 
 ```javascript
 const jaiGanesh = {
-  code: ["React","Flutter","React Native", "Node.js", "Blockchain"],
+  code: ["React", "Flutter", "React Native", "Node.js", "Blockchain"],
   architecture: ["Microservices", "REST APIs", "Web3 Integration", "Mobile First"],
   focus: "Building scalable digital solutions that bridge Web2 and Web3",
   currentRole: "Student",
