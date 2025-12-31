@@ -18,57 +18,6 @@
 
 ---
 
-## 👨‍💻 **About Me**
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  technologies: {
-    mobile: string[];
-    backend: string[];
-    blockchain: string[];
-    languages: string[];
-  };
-  currentFocus: string[];
-  achievements: string[];
-  philosophy: string;
-}
-
-const jaiGanesh: Developer = {
-  name: "Jai Ganesh H",
-  role: "Full-Stack Mobile & Blockchain Developer",
-  location: "Narnaund, Haryana, India",
-  
-  technologies: {
-    mobile: ["React Native", "Flutter", "Kotlin"],
-    backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
-    blockchain: ["Solidity", "Web3.js", "Smart Contracts"],
-    languages: ["JavaScript", "TypeScript", "Python", "C++", "Dart"]
-  },
-  
-  currentFocus: [
-    "Building production-ready mobile applications",
-    "Developing secure and scalable Web3 solutions",
-    "Creating AI-powered user experiences",
-    "Architecting microservices and REST APIs"
-  ],
-  
-  achievements: [
-    "🏆 Smart India Hackathon 2024 Finalist",
-    "🚀 Multiple cross-platform apps in production",
-    "⛓️ Deployed smart contracts on EVM networks"
-  ],
-  
-  philosophy: "Code is poetry, execution is art, innovation is the masterpiece."
-};
-```
-
-<br>
-
----
-
 ## 🎯 **What I Do Best**
 
 <table align="center">
