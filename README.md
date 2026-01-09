@@ -1,164 +1,137 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JAI%20GANESH%20H&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%7C%20Blockchain%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=20" />
-</div>
+<div align="center"> 
+  <img  src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
+</div> 
+<!-- Typing Animation -->
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;Code+For+Fun" alt="Typing SVG" /> 
+  </a> 
+</div> 
 
-<!-- Animated Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=900&lines=Building+Cross-Platform+Mobile+Experiences;Architecting+Web3+%26+Blockchain+Solutions;Smart+India+Hackathon+2024+Finalist;Turning+Ideas+Into+Scalable+Products;Full-Stack+Developer+%26+Digital+Innovator" alt="Typing SVG" />
-</div>
 
-<br>
-
-<!-- Tech Stack with Enhanced Visuals -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,solidity,typescript,javascript,python,flutter,kotlin,express,firebase,mongodb,cpp,c,docker&theme=dark&perline=7" />
-</div>
-
-<br>
-
----
-
-## 🎯 **What I Do Best**
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/smartphone-tablet.png" width="80" />
-      <h3>📱 Mobile Development</h3>
-      <p>Cross-platform apps with React Native & Flutter that deliver native performance and stunning UI/UX</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/blockchain-technology.png" width="80" />
-      <h3>⛓️ Blockchain & Web3</h3>
-      <p>Smart contracts, DApps, and decentralized solutions built with Solidity and Web3 integration</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/backend-development.png" width="80" />
-      <h3>⚙️ Backend Architecture</h3>
-      <p>Scalable Node.js APIs, microservices, and real-time systems with MongoDB & Firebase</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 📊 **GitHub Analytics**
-
-<!-- Profile Stats Overview -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="96%" />
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Contribution%20Activity" width="96%" />
-</div>
-
-<br>
-
-<!-- Compact Stats Row -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jaiganesh2108&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&icon_color=58a6ff" height="180" />
-</div>
-
-<br>
-
-<!-- Language Stats & Trophies -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=html,css" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="50%" />
-</div>
-
-<br>
-
----
-
-## 🛠️ **Tech Arsenal**
-
-<details>
-<summary><b>🖥️ Frontend & Mobile</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⛓️ Blockchain & Web3</b></summary>
-<br>
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 DevOps & Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</details>
-
-<br>
-
----
-
-## 🌟 **Let's Connect & Build Together**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaiganesh2108)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</div>
-
-<br>
-
----
-
-<div align="center">
+<!-- 🌐 Social Links -->
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:jaiganeshh574@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
   
-### 💭 *"In a world of code, be the algorithm that solves problems others haven't imagined yet."*
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dilli-basker-8aaa262ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- X (Twitter) -->
+  <a href="https://x.com/DilliBasker">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://linktree-self-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
+
+---
+
+<div align="center">
+<table>
+<tr>
+<td width="60%" align="left">
+
+I'm **JAI GANESH H**, a passionate developer who thrives on solving real-world problems using technology.  
+Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
+
+- 🌐 Full-Stack Web & Mobile Development  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🛠️ Blockchain Exploration (Solidity + Web3)  
+- 🧠 Building, learning & contributing to open-source projects  
+
+</td>
+<td width="40%" align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ My Daily Stuffs 
+<!-- 3D Animated Icons -->
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,solidity,nodejs,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,html,css,vite,vercel,netlify,tailwind,figma,ubuntu,postman,webpack,npm,yarn,powershell,aws,remix,githubactions,windows,ipfs,discord,fastapi,gmail,visualstudio" /> 
+</div>
+
+---
+
+## 🏆 Achievements
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 🔗 GitHub Analysis
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="75%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" width="35%"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
+
+
+
 
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="38%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="40%" />
+</div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="75%" />
+</div>
+
+---
+
+<div align="center"><p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ff9800?style=for-the-badge&logo=devpost" />
+  <img src="https://img.shields.io/badge/Blockchain%20Explorer-8e44ad?style=for-the-badge&logo=ethereum" />
+</div>
+
+---
+
+## 🤝 Let’s Connect
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dilli-basker-8aaa262ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2ea44f?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:jaiganeshh574@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Mail-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="http://instagram.com/_dilli1488">
+    <img src="https://img.shields.io/badge/Instagram-Follow-2ea44f?style=for-the-badge&logo=instagram&logoColor=black" />
+  </a>
+</p>
+
+
+<div align="center">
+  <h1 align="center"> < Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
+       alt="🙏" width="40" height="40" /> /> </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
 </div>
