@@ -17,17 +17,17 @@
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dilli-basker-8aaa262ba">
+  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   
   <!-- X (Twitter) -->
-  <a href="https://x.com/DilliBasker">
+  <a href="https://x.com/JaiganeshH68461">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
 
   <!-- Portfolio -->
-  <a href="https://linktree-self-nu.vercel.app/" target="_blank">
+  <a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 
@@ -114,7 +114,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 ## 🤝 Let’s Connect
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dilli-basker-8aaa262ba">
+  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2ea44f?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   
@@ -122,13 +122,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <a href="mailto:jaiganeshh574@gmail.com">
     <img src="https://img.shields.io/badge/Email-Mail-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  
-  <!-- Instagram -->
-  <a href="http://instagram.com/_dilli1488">
-    <img src="https://img.shields.io/badge/Instagram-Follow-2ea44f?style=for-the-badge&logo=instagram&logoColor=black" />
-  </a>
 </p>
-
 
 <div align="center">
   <h1 align="center"> < Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
