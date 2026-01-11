@@ -68,35 +68,65 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</div>
-
----
-
 ## 🔗 GitHub Analysis
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="75%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true" width="35%"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Top Languages" />
 
+  <!-- Profile Details -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true"
+    width="85%"
+  />
 
+  <br/><br/>
 
+  <!-- Language & Stats Row -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true"
+    width="30%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true"
+    width="30%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true"
+    width="30%"
+  />
+
+  <br/><br/>
+
+  <!-- Productive Time + Top Languages -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
+    width="45%"
+  />
+
+  <br/><br/>
+
+  <!-- GitHub Stats + Streak -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true"
+    width="45%"
+  />
+
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true"
+    width="90%"
+  />
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" width="38%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&stroke=2ea44f&ring=2ea44f&fire=2ea44f&currStreakNum=2ea44f&sideNums=2ea44f&dates=c9d1d9" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true&custom_title=Contribution%20Graph" width="75%" />
-</div>
 
 ---
 
