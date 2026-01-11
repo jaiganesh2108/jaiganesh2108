@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img  src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=180&section=header&text=JAI%20GANESH%20H&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" /> 
+  <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260111T170629Z&X-Amz-Expires=300&X-Amz-Signature=61be4a4515ea1c49da309d3b56bcc11a3d2418b89dd8fc8de94b627b77c42f87&X-Amz-SignedHeaders=host" width="100%" /> 
 </div> 
 <!-- Typing Animation -->
 <div align="center"> 
@@ -30,9 +30,9 @@
   <a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=brightgreen&style=flat" />
+</p>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -56,7 +56,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <td width="40%" align="center">
         <img 
           height="200" 
-          src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gihttps://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png)" 
+          src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
           alt="Coding Animation" 
         />
       </td>
@@ -66,6 +66,16 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
+<!-- JS Banner Image at the end -->
+<p align="center">
+  <img 
+    src="https://repository-images.githubusercontent.com/743222076/5aec98f9-3174-434d-8652-223dc6c03be3"
+    alt="Advanced JavaScript"
+    width="20%"
+  />
+</p>
 
 ## 🛠️ My Daily Stuffs 
 <!-- 3D Animated Icons -->
@@ -137,14 +147,30 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<div align="center"><p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+
+<table align= "center" >
+  <tr>
+    <td align="left" width="70%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    </td>
+  <td align="right" width="30%">
+      <img 
+        width="200"
+        src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
+      />
+  </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-2ea44f?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ff9800?style=for-the-badge&logo=devpost" />
   <img src="https://img.shields.io/badge/Blockchain%20Explorer-8e44ad?style=for-the-badge&logo=ethereum" />
-</div>
+</p>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -160,6 +186,8 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
     <img src="https://img.shields.io/badge/Email-Mail-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
   <h1 align="center"> < Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
