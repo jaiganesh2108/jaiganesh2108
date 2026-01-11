@@ -35,12 +35,13 @@
   <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
-<table>
-<tr>
-<td width="60%" align="left">
+
+  <table>
+    <tr>
+      <td width="60%" align="left">
 
 I'm **JAI GANESH H**, a passionate developer who thrives on solving real-world problems using technology.  
 Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
@@ -50,15 +51,21 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 - 🛠️ Blockchain Exploration (Solidity + Web3)  
 - 🧠 Building, learning & contributing to open-source projects  
 
-</td>
-<td width="40%" align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" />
-</td>
-</tr>
-</table>
+  </td>
+
+  <td width="40%" align="center">
+        <img 
+          height="200" 
+          src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gihttps://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png)" 
+          alt="Coding Animation" 
+        />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🛠️ My Daily Stuffs 
 <!-- 3D Animated Icons -->
@@ -66,7 +73,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,solidity,nodejs,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,html,css,vite,vercel,netlify,tailwind,figma,ubuntu,postman,webpack,npm,yarn,powershell,aws,remix,githubactions,windows,ipfs,discord,fastapi,gmail,visualstudio" /> 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🔗 GitHub Analysis
 <div align="center">
@@ -128,7 +135,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center"><p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -139,7 +146,7 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
   <img src="https://img.shields.io/badge/Blockchain%20Explorer-8e44ad?style=for-the-badge&logo=ethereum" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## 🤝 Let’s Connect
 <p align="center">
