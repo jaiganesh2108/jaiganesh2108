@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img width="1584" height="396" src="https://github.com/user-attachments/assets/5081c1b7-19d3-4f17-8915-3c0f158f796b" />
+   <img width="1584" height="396" src="https://github.com/user-attachments/assets/ca38a1cd-763d-4fc7-8e13-e8408e265c97" />
 </div> 
 <!-- Typing Animation -->
 <div align="center"> 
