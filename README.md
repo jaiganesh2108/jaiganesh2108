@@ -1,7 +1,10 @@
 <div align="center"> 
-   <img width="1584" height="396" src="https://github.com/user-attachments/assets/ca38a1cd-763d-4fc7-8e13-e8408e265c97" />
+   <img width="1584" height="396" src="https://github.com/user-attachments/assets/2d6a24a1-fd50-4447-861a-cfb2adabfb1d" />
 </div> 
+
+
 <!-- Typing Animation -->
+
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;Code+For+Fun" alt="Typing SVG" /> 
