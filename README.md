@@ -70,16 +70,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-
-<!-- JS Banner Image at the end -->
-<p align="center">
-  <img 
-    src="https://repository-images.githubusercontent.com/743222076/5aec98f9-3174-434d-8652-223dc6c03be3"
-    alt="Advanced JavaScript"
-    width="20%"
-  />
-</p>
-
 ## 🛠️ My Daily Stuffs 
 <!-- 3D Animated Icons -->
 <div align="center"> 
