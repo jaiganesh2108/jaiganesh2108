@@ -49,10 +49,11 @@
 I'm **JAI GANESH H**, a passionate developer who thrives on solving real-world problems using technology.  
 Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
 
-- 🌐 Full-Stack Web & Mobile Development  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🛠️ Blockchain Exploration (Solidity + Web3)  
-- 🧠 Building, learning & contributing to open-source projects  
+- 🌐 Full-Stack Web – Building modern, scalable web applications with clean UI and powerful backends.  
+- 📱 Mobile Development – Creating cross-platform apps with smooth experiences using React Native.  
+- 🤖 Generative AI – Exploring LLMs and building AI-powered tools and smart applications.
+- ⛓️ Blockchain – Experimenting with decentralized apps using Solidity and Web3.
+- 🧊 3D Modeling – Designing simple 3D assets and exploring creative digital worlds.
 
   </td>
 
@@ -66,14 +67,6 @@ Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
     </tr>
   </table>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🛠️ My Daily Stuffs 
-<!-- 3D Animated Icons -->
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,django,solidity,nodejs,express,mongodb,mysql,docker,git,github,firebase,vscode,tensorflow,pytorch,opencv,nextjs,linux,c,html,css,vite,vercel,netlify,tailwind,figma,ubuntu,postman,webpack,npm,yarn,powershell,aws,remix,githubactions,windows,ipfs,discord,fastapi,gmail,visualstudio,androidstudio,azure,bootstrap,bots,discordjs,dotnet,gcp,gradle,jenkins,nestjs,stackoverflow,sklearn,rollupjs" /> 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
