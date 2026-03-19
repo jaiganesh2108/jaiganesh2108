@@ -1,170 +1,213 @@
-<div align="center"> 
-   <img width="1584" height="396" src="https://github.com/user-attachments/assets/2d6a24a1-fd50-4447-861a-cfb2adabfb1d" />
-</div> 
-
-
-<!-- Typing Animation -->
-
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=500&height=40&lines=Software+Engineer;Full-Stack+Engineer;AI%2FML+Practitioner;Love+To+Code;Blockchain+Learner;Open+Source+Contributor;Code+For+Fun" alt="Typing SVG" /> 
-  </a> 
-</div> 
-
-
-<!-- 🌐 Social Links -->
-<p align="center">
-  <!-- Gmail -->
-  <a href="mailto:jaiganeshh574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <!-- X (Twitter) -->
-  <a href="https://x.com/JaiganeshH68461">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile%20Views&color=brightgreen&style=flat" />
-</p>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 <div align="center">
 
-  <table>
-    <tr>
-      <td width="60%" align="left">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=4&section=header" />
 
-I'm **JAI GANESH H**, a passionate developer who thrives on solving real-world problems using technology.  
-Currently pursuing **B.E. in Computer Science (JEC '27)**, I specialize in:
+# JAI GANESH H
 
-- 🌐 Full-Stack Web – Building modern, scalable web applications with clean UI and powerful backends.  
-- 📱 Mobile Development – Creating cross-platform apps with smooth experiences using React Native.  
-- 🤖 Generative AI – Exploring LLMs and building AI-powered tools and smart applications.
-- ⛓️ Blockchain – Experimenting with decentralized apps using Solidity and Web3.
-- 🧊 3D Modeling – Designing simple 3D assets and exploring creative digital worlds.
+**`Full-Stack Engineer · AI/ML Practitioner · Blockchain Learner`**
 
-  </td>
+B.E. Computer Science @ JEC '27 · India 🇮🇳
 
-  <td width="40%" align="center">
-        <img 
-          height="200" 
-          src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGE5ZWVuem5tbHVsbnFnYmE5cTZhcHdzM2kxM2ZvcDI2a2xneHdueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-          alt="Coding Animation" 
-        />
-      </td>
-    </tr>
-  </table>
+<br/>
+
+<a href="mailto:jaiganeshh574@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/JaiganeshH68461">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile+Views&color=2ea44f&style=flat-square" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<br/>
 
-## 🔗 GitHub Analysis
+---
+
+## `> whoami`
+
+```typescript
+const jaiganesh = {
+  name:        "Jai Ganesh H",
+  college:     "Jyothi Engineering College — B.E. CS '27",
+  location:    "India 🇮🇳",
+
+  focus:       ["Full-Stack Web", "Generative AI", "Blockchain", "Mobile Dev"],
+  philosophy:  "Build. Break. Learn. Repeat.",
+
+  stack: {
+    frontend:   ["React", "Next.js", "Tailwind CSS", "TypeScript"],
+    mobile:     ["React Native"],
+    backend:    ["Node.js", "Express", "FastAPI", "Python"],
+    ai_ml:      ["LangChain", "OpenAI API", "HuggingFace"],
+    blockchain: ["Solidity", "Hardhat", "Web3.js", "Ethers.js"],
+    database:   ["MongoDB", "PostgreSQL", "Firebase"],
+    tools:      ["Git", "Docker", "Vercel", "Linux"],
+  },
+
+  openTo:      ["Internships 💼", "Collaborations 🤝", "Hackathons 🏆"],
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <!-- Profile Details -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true"
-    width="85%"
-  />
-  <br><br>
-  <!-- Language & Stats Row -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true"
-    width="30%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true"
-    width="30%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true"
-    width="30%"
-  />
-  <br><br>
-  <!-- Productive Time + Top Languages -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiganesh2108&theme=github_dark&hide_border=true"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
-    width="45%"
-  />
-  <br><br>
-  <!-- GitHub Stats + Streak -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true"
-    width="45%"
-  />
-  <br><br>
-  <!-- Contribution Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true"
-    width="90%"
-  />
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2ea44f?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Blockchain**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
-<table align= "center" >
-  <tr>
-    <td align="left" width="70%">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-    </td>
-  <td align="right" width="30%">
-      <img 
-        width="200"
-        src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"
-      />
-  </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-2ea44f?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ff9800?style=for-the-badge&logo=devpost" />
-  <img src="https://img.shields.io/badge/Blockchain%20Explorer-8e44ad?style=for-the-badge&logo=ethereum" />
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🤝 Let’s Connect
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2ea44f?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:jaiganeshh574@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mail-2ea44f?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+## 📊 GitHub Stats
 
 <div align="center">
-  <h1 align="center"> < Thanks for visiting! <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f64f.gif" 
-       alt="🙏" width="40" height="40" /> /> </h1>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="88%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9&ring_color=2ea44f" width="45%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f" width="45%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="29%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="29%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="29%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=2ea44f&line=2ea44f&point=2ea44f&area=true&hide_border=true" width="88%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="88%" />
+</div>
+
+---
+
+## 📅 2025 Learning Roadmap
+
+| Quarter | Focus Area | Status |
+|:-------:|:-----------|:------:|
+| Q1 | React, Next.js, Tailwind — Production-grade UI | ✅ Done |
+| Q2 | LLMs, RAG pipelines, LangChain Agents | 🔄 In Progress |
+| Q3 | Solidity, Smart Contract Auditing, DApp launch | 📌 Planned |
+| Q4 | SaaS product launch + Internship applications | 🎯 Target |
+
+---
+
+## 🌱 Currently Exploring
+
+```
+🤖  Generative AI     →  Building LLM-powered tools with RAG & Agents
+⛓️  Blockchain        →  Writing & auditing smart contracts on Ethereum
+📱  React Native      →  Shipping cross-platform mobile apps
+🧊  3D Modeling       →  Experimenting with Three.js & Blender
+```
+
+---
+
+## 💬 Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to internships, hackathons, and meaningful collaborations.  
+If you have an idea worth building — let's talk.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/jai-ganesh-h-588a48321/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:jaiganeshh574@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://jaiganeshh-luca.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-2ea44f?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Open Source](https://img.shields.io/badge/Open_Source_Contributor-2ea44f?style=flat-square&logo=github&logoColor=white)
+![Intern Ready](https://img.shields.io/badge/Intern_Ready_2025-ff9800?style=flat-square&logo=briefcase&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon_Enthusiast-8e44ad?style=flat-square&logo=devpost&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Thanks for visiting — go build something great. 🙏</sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2ea44f&height=3&section=footer" />
 </div>
