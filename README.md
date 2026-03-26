@@ -39,7 +39,7 @@ B.E. Computer Science @ JEC '27 · India 🇮🇳
 ```typescript
 const jaiganesh = {
   name:        "Jai Ganesh H",
-  college:     "Jyothi Engineering College — B.E. CS '27",
+  college:     "Jaya Engineering College — B.E. CS '27",
   location:    "India 🇮🇳",
 
   focus:       ["Full-Stack Web", "Generative AI", "Blockchain", "Mobile Dev"],
