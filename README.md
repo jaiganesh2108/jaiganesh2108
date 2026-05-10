@@ -205,7 +205,7 @@ class JaiGaneshH:
 
 <div align="center">
 
-I'm a **second-year CS student** actively looking for **internships**, **open-source collabs**, and **hackathon teammates**.
+I'm a **third-year CSE student** actively looking for **internships**, **open-source collabs**, and **hackathon teammates**.
 
 If you're working on something interesting in **AI, Web, or Mobile** — let's talk.
 
