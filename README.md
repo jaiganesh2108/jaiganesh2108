@@ -3,13 +3,6 @@
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;Generative+AI+%26+LLM+Engineer;Blockchain+Explorer;Student+%40+JEC+%E2%80%94+B.E.+CS+%2727;Build.+Ship.+Learn.+Repeat." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 <!-- Social badges -->
 <a href="mailto:jaiganeshh574@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,7 +26,7 @@
 &nbsp;
 ![Open Source](https://img.shields.io/badge/Open_Source-❤️_Contributor-red?style=flat-square)
 &nbsp;
-![Intern Ready](https://img.shields.io/badge/Internship-Ready_2025-58A6FF?style=flat-square)
+![Intern Ready](https://img.shields.io/badge/Internship-Ready_2026-58A6FF?style=flat-square)
 
 </div>
 
@@ -79,7 +72,6 @@ class JaiGaneshH:
 > *My primary frontier — where I spend most of my energy*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2ea44f?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -95,7 +87,6 @@ class JaiGaneshH:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 📱 Mobile Development
 > *One codebase. iOS + Android. Ship fast.*
