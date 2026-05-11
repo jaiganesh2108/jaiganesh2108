@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- Social badges -->
 <a href="mailto:jaiganeshh574@gmail.com">
@@ -225,5 +225,5 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 <div align="center">
   <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet.</sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
