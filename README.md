@@ -220,39 +220,6 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 
 </div>
 
-## Contributors ❤️
-
-These are my friends who contributed to this project.
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/LaletheshS01">
-        <img 
-          src="https://github.com/LaletheshS01.png" 
-          width="100px;" 
-          style="border-radius:50%;" 
-          alt="Lalethesh"
-        />
-        <br />
-        <sub><b>Lalethesh</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dillibasker">
-        <img 
-          src="https://github.com/dillibasker.png" 
-          width="100px;" 
-          style="border-radius:50%;" 
-          alt="Dillibasker"
-        />
-        <br />
-        <sub><b>Dillibasker</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <div align="center">
