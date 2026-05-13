@@ -176,6 +176,9 @@ class JaiGaneshH:
   <img src="https://leetcard.jacoblin.cool/JaiGaneshH?theme=dark&font=Karma" />
 
   <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
+  
+  <img width="27%" alt="certificate-afotg75x9524-1778654286_page-0001" src="https://github.com/user-attachments/assets/7a3b4831-d4ee-4200-93dc-d85c09da5f0c" />
+  <img width="30%" alt="python 1_250820_171500_30" src="https://github.com/user-attachments/assets/0be5aa9c-2548-4b4b-8325-742f3c8d9a4e" />
 
 </div>
 
