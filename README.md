@@ -44,6 +44,7 @@ class JaiGaneshH:
     name       = "Jai Ganesh H"
     degree     = "B.E. Computer Science, JEC '27"
     location   = "India 🇮🇳"
+    programming_languages_known = "Python (Primary), JavaScript, TypeScript"
 
     # What I live and breathe
     interests  = [
