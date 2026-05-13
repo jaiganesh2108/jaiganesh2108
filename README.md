@@ -145,25 +145,25 @@ class JaiGaneshH:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=github_dark&hide_border=true" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="90%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" width="46%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&theme=tokyonight" width="46%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" width="46%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" width="46%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="30%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&ttheme=tokyonight&hide_border=true" width="30%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=github_dark&hide_border=true" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="30%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=github-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiganesh2108&theme=tokyonight&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="90%" />
 
 </div>
 
@@ -174,8 +174,8 @@ class JaiGaneshH:
 <div align="center">
 
   <img src="https://leetcard.jacoblin.cool/JaiGaneshH?theme=dark&font=Karma" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&ttheme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
 
 </div>
 
