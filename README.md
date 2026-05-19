@@ -30,7 +30,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 👋 Hello, World!
 
@@ -63,7 +63,7 @@ class JaiGaneshH:
         print("Thanks for stopping by! Let's build something meaningful together.")
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
 
@@ -92,7 +92,7 @@ class JaiGaneshH:
 
 > Building intelligent systems, AI agents, LLM apps, and ML-powered products.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🌐 Full Stack Development
 
@@ -100,7 +100,7 @@ class JaiGaneshH:
 
 > Creating scalable frontend + backend applications with modern web technologies.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📱 Mobile / Desktop App Development
 
@@ -108,7 +108,7 @@ class JaiGaneshH:
 
 > Cross-platform mobile applications with React Native & Expo.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🗄️ Databases & Backend
 
@@ -118,7 +118,7 @@ class JaiGaneshH:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🚀 What I'm Currently Building
 
@@ -145,7 +145,7 @@ class JaiGaneshH:
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📈 GitHub Stats
 
@@ -173,7 +173,7 @@ class JaiGaneshH:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 Achievements
 
@@ -185,7 +185,7 @@ class JaiGaneshH:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 💡 How I Think About Building
 
@@ -197,7 +197,7 @@ class JaiGaneshH:
 - 📖 **Document the journey** — Learning in public is learning twice
 - 🎯 **Impact-driven** — Every project I build solves a real problem for real people
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🤝 Let's Build Together
 
@@ -225,9 +225,10 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ4cjkzcjd2aW5xd3RsYjRnZzI4cXdxM2Mwd3IyOXdiZ3ppZ2h1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zAo1Zb7X4Zci1Bmd2z/giphy.gif" height="200">
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
   <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet.</sub>
