@@ -57,7 +57,7 @@ class JaiGaneshH:
     philosophy = "Don't just use technology — understand it, break it, rebuild it better."
     currently  = "Shipping RAG pipelines by day, dreaming in Solidity by night."
 
-    open_to    = ["Internships 💼", "Hackathons 🏆", "Open Source 🛠️", "Collaborations 🤝"]
+    open_to = ["Internships 💼", "Hackathons 🏆", "Open Source 🛠️", "Collaborations 🤝"]
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something meaningful together.")
