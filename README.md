@@ -30,7 +30,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 👋 Hello, World!
 
@@ -63,7 +63,7 @@ class JaiGaneshH:
         print("Thanks for stopping by! Let's build something meaningful together.")
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 <div align="center">
 
@@ -92,7 +92,7 @@ class JaiGaneshH:
 
 > Building intelligent systems, AI agents, LLM apps, and ML-powered products.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 ## 🌐 Full Stack Development
 
@@ -100,7 +100,7 @@ class JaiGaneshH:
 
 > Creating scalable frontend + backend applications with modern web technologies.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
 ## 🗄️ Databases & Backend
 
@@ -110,7 +110,7 @@ class JaiGaneshH:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 🚀 What I'm Currently Building
 
@@ -137,7 +137,7 @@ class JaiGaneshH:
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 📈 GitHub Stats
 
@@ -165,7 +165,7 @@ class JaiGaneshH:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 🏆 Achievements
 
@@ -177,7 +177,7 @@ class JaiGaneshH:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 💡 How I Think About Building
 
@@ -189,7 +189,7 @@ class JaiGaneshH:
 - 📖 **Document the journey** — Learning in public is learning twice
 - 🎯 **Impact-driven** — Every project I build solves a real problem for real people
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 🤝 Let's Build Together
 
@@ -220,7 +220,7 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ4cjkzcjd2aW5xd3RsYjRnZzI4cXdxM2Mwd3IyOXdiZ3ppZ2h1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zAo1Zb7X4Zci1Bmd2z/giphy.gif" height="200">
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 <div align="center">
   <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet.</sub>
