@@ -3,6 +3,8 @@
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
 
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+
 <!-- Social badges -->
 <a href="mailto:jaiganeshh574@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -29,8 +31,6 @@
 ![Intern Ready](https://img.shields.io/badge/Internship-Ready_2026-58A6FF?style=flat-square)
 
 </div>
-
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 👋 Hello, World!
 
@@ -62,6 +62,8 @@ class JaiGaneshH:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something meaningful together.")
 ```
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
@@ -110,6 +112,8 @@ class JaiGaneshH:
 
 </div>
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 🚀 What I'm Currently Building
@@ -136,6 +140,8 @@ class JaiGaneshH:
     </td>
   </tr>
 </table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
@@ -165,6 +171,8 @@ class JaiGaneshH:
 
 </div>
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 🏆 Achievements
@@ -177,6 +185,8 @@ class JaiGaneshH:
 
 </div>
 
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
 ## 💡 How I Think About Building
@@ -188,6 +198,8 @@ class JaiGaneshH:
 - 🤝 **Collaboration > competition** — The best ideas come from building together
 - 📖 **Document the journey** — Learning in public is learning twice
 - 🎯 **Impact-driven** — Every project I build solves a real problem for real people
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
@@ -221,6 +233,9 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 </div>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 
 <div align="center">
   <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet.</sub>
