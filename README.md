@@ -32,7 +32,7 @@
 
 </div>
 
-## 👋 Hello, World!
+## Hello, World!
 
 ```python
 class JaiGaneshH:
@@ -48,16 +48,16 @@ class JaiGaneshH:
 
     # What I live and breathe
     interests  = [
-        "🤖 Generative AI & LLM Applications",
-        "🌐 Full-Stack Web Development",
-        "📱 Cross-Platform Mobile Apps",
-        "⛓️  Blockchain & Smart Contracts",
+        "Generative AI & LLM Applications",
+        "Full-Stack Web Development",
+        "Cross-Platform Mobile Apps",
+        "Blockchain & Smart Contracts",
     ]
 
     philosophy = "Don't just use technology — understand it, break it, rebuild it better."
     currently  = "Shipping RAG pipelines by day, dreaming in Solidity by night."
 
-    open_to = ["Internships 💼", "Hackathons 🏆", "Open Source 🛠️", "Collaborations 🤝"]
+    open_to = ["Internships", "Hackathons", "Open Source", "Collaborations"]
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something meaningful together.")
@@ -69,13 +69,13 @@ class JaiGaneshH:
 
 <div align="center">
 
-# 🧠 Tech Stack & Technologies
+# Tech Stack & Technologies
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,nextjs,ts,tailwind,nodejs,express,react,js,mongodb,postgresql,firebase,docker,git,linux,vscode&perline=9" />
 
 <br><br>
 
-## 🤖 AI / ML & GenAI
+## AI / ML & GenAI
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv" />
 
@@ -96,7 +96,7 @@ class JaiGaneshH:
 
 ---
 
-## 🌐 Full Stack Development
+## Full Stack Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express" />
 
@@ -104,7 +104,7 @@ class JaiGaneshH:
 
 ---
 
-## 🗄️ Databases & Backend
+## Databases & Backend
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,sqlite,mysql" />
 
@@ -116,26 +116,26 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 LLM-Powered Apps</h3>
+      <h3>LLM-Powered Apps</h3>
       <p>Building production-ready Generative AI apps using <strong>RAG pipelines</strong>, <strong>LangChain Agents</strong>, and <strong>OpenAI's API</strong>. Currently exploring multi-agent orchestration and tool-augmented LLMs.</p>
     </td>
     <td width="50%">
-      <h3>🌐 Full-Stack SaaS</h3>
+      <h3>Full-Stack SaaS</h3>
       <p>Developing scalable web applications with <strong>Next.js + TypeScript</strong> on the frontend and <strong>Node.js/FastAPI</strong> on the backend. Focused on clean architecture and real-world deployment.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📱 Mobile-First Products</h3>
+      <h3>Mobile-First Products</h3>
       <p>Shipping cross-platform apps using <strong>React Native</strong> — from concept to App Store. Emphasis on smooth UX, offline support, and performance on real devices.</p>
     </td>
     <td width="50%">
-      <h3>⛓️ DApps on Ethereum</h3>
+      <h3>DApps on Ethereum</h3>
       <p>Learning smart contract development with <strong>Solidity + Hardhat</strong>. Working toward writing and auditing secure smart contracts, and launching my first DApp on testnet.</p>
     </td>
   </tr>
@@ -145,7 +145,7 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -175,7 +175,7 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -189,21 +189,21 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 💡 How I Think About Building
+## How I Think About Building
 
 > I don't just learn frameworks — I understand the *why* behind them.
 
-- 🔍 **Curiosity first** — I dig into how things work under the hood before using them
-- 🛳️ **Ship, then refine** — A working product teaches more than perfect theory
-- 🤝 **Collaboration > competition** — The best ideas come from building together
-- 📖 **Document the journey** — Learning in public is learning twice
-- 🎯 **Impact-driven** — Every project I build solves a real problem for real people
+- **Curiosity first** — I dig into how things work under the hood before using them
+- **Ship, then refine** — A working product teaches more than perfect theory
+- **Collaboration > competition** — The best ideas come from building together
+- **Document the journey** — Learning in public is learning twice
+- **Impact-driven** — Every project I build solves a real problem for real people
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 🤝 Let's Build Together
+## Let's Build Together
 
 <div align="center">
 
