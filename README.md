@@ -69,7 +69,7 @@ class JaiGaneshH:
 
 <div align="center">
 
-## Tech Stack & Technologies
+# Tech Stack & Technologies
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,nextjs,ts,tailwind,nodejs,express,react,js,mongodb,postgresql,firebase,docker,git,linux,vscode&perline=9" />
 
@@ -117,7 +117,9 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## What I'm Currently Building
+<div align="center">
+
+# What I'm Currently Building
 
 <table>
   <tr>
@@ -146,9 +148,9 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## GitHub Stats
-
 <div align="center">
+  
+# GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="90%" />
 
@@ -176,9 +178,9 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## Achievements
-
 <div align="center">
+  
+# Achievements
 
   <img src="https://leetcard.jacoblin.cool/JaiGaneshH?theme=dark&font=Karma" />
   
@@ -190,23 +192,9 @@ class JaiGaneshH:
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## How I Think About Building
-
-> I don't just learn frameworks — I understand the *why* behind them.
-
-- **Curiosity first** — I dig into how things work under the hood before using them
-- **Ship, then refine** — A working product teaches more than perfect theory
-- **Collaboration > competition** — The best ideas come from building together
-- **Document the journey** — Learning in public is learning twice
-- **Impact-driven** — Every project I build solves a real problem for real people
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
-
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
-
-## Let's Build Together
-
 <div align="center">
+
+# Let's Build Together
 
 I'm a **third-year CSE student** actively looking for **internships**, **open-source collabs**, and **hackathon teammates**.
 
