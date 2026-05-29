@@ -182,7 +182,7 @@ class JaiGaneshH:
   
 # Achievements
   
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JaiGaneshH?ext=contest&theme=dark)](https://leetcode.com/JaiGaneshH)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JaiGaneshH?ext=contest&theme=dark)](https://leetcode.com/JaiGaneshH) 
 
 <img src="https://duolingo-stats-card.vercel.app/api?username=JAIGANESH221041&theme=nightowl" alt="Duolingo Stats" />
   
