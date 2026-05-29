@@ -181,10 +181,10 @@ class JaiGaneshH:
 <div align="center">
   
 # Achievements
-
-  <img src="https://leetcard.jacoblin.cool/JaiGaneshH?theme=dark&font=Karma" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&ttheme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JaiGaneshH?ext=contest&theme=dark)](https://leetcode.com/JaiGaneshH)
+  
+<img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&ttheme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
 
 </div>
 
