@@ -71,7 +71,7 @@ class JaiGaneshH:
 
 # Tech Stack & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,nextjs,ts,tailwind,nodejs,express,react,js,mongodb,postgresql,firebase,docker,git,linux,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,nextjs,ts,tailwind,nodejs,express,anaconda,js,mongodb,postgresql,firebase,docker,git,linux,vscode&perline=9" />
 
 <br><br>
 
