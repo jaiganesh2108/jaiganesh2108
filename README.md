@@ -71,7 +71,7 @@ class JaiGaneshH:
 
 # Tech Stack & Technologies
 
-## AI / ML & GenAI
+## AI / ML & GenAI Engineering
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda,pycharm" />
 
