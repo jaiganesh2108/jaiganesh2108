@@ -99,7 +99,7 @@ class JaiGaneshH:
 
 ## Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,python,js,ts" />
 
 > Creating scalable frontend + backend applications with modern web technologies.
 
