@@ -71,10 +71,6 @@ class JaiGaneshH:
 
 # Tech Stack & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,nextjs,ts,tailwind,nodejs,express,anaconda,js,mongodb,postgresql,firebase,docker,git,linux,vscode&perline=9" />
-
-<br><br>
-
 ## AI / ML & GenAI
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda,pycharm" />
@@ -99,17 +95,12 @@ class JaiGaneshH:
 
 ## Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,python,js,ts,mongodb,postgresql,firebase,sqlite,mysql,firebase" />
 
 > Creating scalable frontend + backend applications with modern web technologies.
+> Designing scalable APIs, authentication systems, and cloud-connected apps.
 
 ---
-
-## Databases & Backend
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,sqlite,mysql" />
-
-> Designing scalable APIs, authentication systems, and cloud-connected apps.
 
 </div>
 
