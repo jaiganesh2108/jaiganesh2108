@@ -100,8 +100,6 @@ class JaiGaneshH:
 > Creating scalable frontend + backend applications with modern web technologies.
 > Designing scalable APIs, authentication systems, and cloud-connected apps.
 
----
-
 </div>
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
