@@ -95,7 +95,7 @@ class JaiGaneshH:
 
 ## Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,python,js,ts,mongodb,postgresql,firebase,sqlite,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,python,js,ts,mongodb,postgresql,firebase,sqlite,mysql,firebase,fastapi" />
 
 > Creating scalable frontend + backend applications with modern web technologies.
 > Designing scalable APIs, authentication systems, and cloud-connected apps.
