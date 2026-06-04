@@ -218,7 +218,7 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 
 
 <div align="center">
-  <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet.</sub>
+  <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet. </sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
