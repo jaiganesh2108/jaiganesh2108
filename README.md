@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
 
