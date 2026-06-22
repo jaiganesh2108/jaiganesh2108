@@ -76,7 +76,7 @@ class JaiGaneshH:
   
 ### 🧠 AI / ML / GenAI
  
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda,googlecloud" /><br/><br/>
  
 ![LangChain](https://img.shields.io/badge/LangChain-1A1A19?style=flat-square&logo=chainlink&logoColor=CC785C)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-1A1A19?style=flat-square&logo=openai&logoColor=CC785C)
