@@ -69,44 +69,45 @@ class JaiGaneshH:
 <div align="center">
 
 # Tech Stack & Technologies
-
-## AI / ML & GenAI Engineering
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda,pycharm" />
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-2ea44f?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenClaw-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-> Building intelligent systems, AI agents, LLM apps, and ML-powered products.
-
----
-
-## Full Stack Development
-
-<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,python,js,ts,mongodb,postgresql,firebase,sqlite,mysql,fastapi,firebase" />
-
-> Creating scalable frontend + backend applications with modern web technologies.
-> Designing scalable APIs, authentication systems, and cloud-connected apps.
-
 </div>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
-
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
-
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+  
+### 🧠 AI / ML / GenAI
+ 
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda" /><br/><br/>
+ 
+![LangChain](https://img.shields.io/badge/LangChain-1A1A19?style=flat-square&logo=chainlink&logoColor=CC785C)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-1A1A19?style=flat-square&logo=openai&logoColor=CC785C)
+![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1A1A19?style=flat-square&logo=google-gemini&logoColor=CC785C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1A1A19?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Groq](https://img.shields.io/badge/Groq-1A1A19?style=flat-square&logo=groq&logoColor=CC785C)
+![Ollama](https://img.shields.io/badge/Ollama-1A1A19?style=flat-square&logo=ollama&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1A1A19?style=flat-square&logo=numpy&logoColor=CC785C)
+![Pandas](https://img.shields.io/badge/Pandas-1A1A19?style=flat-square&logo=pandas&logoColor=CC785C)
+ 
+</td>
+<td valign="top" width="50%">
+  
+### 🌐 Full-Stack Development
+ 
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,js,ts" /><br/><br/>
+ 
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A19?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A19?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-1A1A19?style=flat-square&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A19?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-1A1A19?style=flat-square&logo=sqlite&logoColor=003B57)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1A19?style=flat-square&logo=fastapi&logoColor=009688)
+ 
+</td>
+</tr>
+</table>
+<br/>
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" />
+<br/>
 <div align="center">
 
 # What I'm Currently Building
