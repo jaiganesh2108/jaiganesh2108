@@ -47,19 +47,32 @@ class JaiGaneshH:
 
     # What I live and breathe
     interests  = [
+        "Agentic AI & Autonomous Systems",
         "Generative AI & LLM Applications",
         "Full-Stack Web Development",
         "Cross-Platform Mobile Apps",
         "Blockchain & Smart Contracts",
     ]
 
-    philosophy = "Don't just use technology — understand it, break it, rebuild it better."
-    currently  = "Shipping RAG pipelines by day, dreaming in Solidity by night."
+    philosophy = (
+        "Don't just use technology — understand it, "
+        "break it, rebuild it better."
+    )
 
-    open_to = ["Internships", "Hackathons", "Open Source", "Collaborations"]
+    currently = (
+        "Building Agentic AI systems and RAG pipelines by day, "
+        "dreaming in Solidity by night."
+    )
+
+    open_to = [
+        "Internships", "Hackathons", "Open Source", "Collaborations",
+    ]
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something meaningful together.")
+        print(
+            "Thanks for stopping by! "
+            "Let's build something meaningful together."
+        )
 ```
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
