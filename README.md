@@ -121,38 +121,11 @@ class JaiGaneshH:
 </tr>
 </table>
 <br/>
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" />
-<br/>
-<div align="center">
-
-# What I'm Currently Building
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>LLM-Powered Apps</h3>
-      <p>Building production-ready Generative AI apps using <strong>RAG pipelines</strong>, <strong>LangChain Agents</strong>, and <strong>OpenAI's API</strong>. Currently exploring multi-agent orchestration and tool-augmented LLMs.</p>
-    </td>
-    <td width="50%">
-      <h3>Full-Stack SaaS</h3>
-      <p>Developing scalable web applications with <strong>Next.js + TypeScript</strong> on the frontend and <strong>Node.js/FastAPI</strong> on the backend. Focused on clean architecture and real-world deployment.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Mobile-First Products</h3>
-      <p>Shipping cross-platform apps using <strong>React Native</strong> — from concept to App Store. Emphasis on smooth UX, offline support, and performance on real devices.</p>
-    </td>
-    <td width="50%">
-      <h3>DApps on Ethereum</h3>
-      <p>Learning smart contract development with <strong>Solidity + Hardhat</strong>. Working toward writing and auditing secure smart contracts, and launching my first DApp on testnet.</p>
-    </td>
-  </tr>
-</table>
 
 ![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)
 
-![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%" />
+<br/>
 <div align="center">
   
 # GitHub Stats
