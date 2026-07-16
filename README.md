@@ -7,6 +7,7 @@
 ![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
 
 <!-- Social badges -->
+
 <a href="mailto:jaiganeshh574@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -20,9 +21,8 @@
 </a>
 &nbsp;
 <a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile+Views&color=58A6FF&style=flat-square)
