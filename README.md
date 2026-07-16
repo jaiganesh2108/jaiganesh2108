@@ -23,7 +23,6 @@
 <a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile+Views&color=58A6FF&style=flat-square)
