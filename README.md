@@ -33,9 +33,13 @@
 
 </div>
 
-## Hello_World.py
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```python
+<h2>Hello_World.py</h2>
+
+<pre>
 class JaiGaneshH:
     """
     A passionate CS undergrad turning caffeine and curiosity
@@ -48,17 +52,32 @@ class JaiGaneshH:
     programming_languages_known = "Python (Primary), JavaScript, TypeScript"
 
     # What I live and breathe
-    interests  = [
+    interests = [
         "Agentic AI & Autonomous Systems",
         "Generative AI & LLM Applications",
         "Full-Stack Web Development",
         "Cross-Platform Mobile Apps",
         "Blockchain & Smart Contracts",
     ]
+
     open_to = [
-        "Internships", "Hackathons", "Open Source", "Collaborations",
+        "Internships",
+        "Hackathons",
+        "Open Source",
+        "Collaborations",
     ]
-```
+</pre>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3J6ZnVleHphcG84YTY4bGtxYzl6M2ZzOGFzcDR5YnB5enRzZGI0dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="320">
+
+</td>
+</tr>
+</table>
+
 
 ![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)
 
