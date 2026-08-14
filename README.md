@@ -58,6 +58,7 @@ class JaiGaneshH:
         "Full-Stack Web Development",
         "Cross-Platform Mobile Apps",
         "Blockchain & Smart Contracts",
+        "Quantum Computing",
     ]
 
     open_to = [
@@ -72,12 +73,25 @@ class JaiGaneshH:
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3J6ZnVleHphcG84YTY4bGtxYzl6M2ZzOGFzcDR5YnB5enRzZGI0dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" width="320">
+<!-- Top GIF -->
+<img 
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3J6ZnVleHphcG84YTY4bGtxYzl6M2ZzOGFzcDR5YnB5enRzZGI0dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif"
+  width="300"
+  alt="Coding animation"
+/>
+
+<br><br>
+
+<!-- Bottom GIF -->
+<img 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsazgxa2hwamh0eG04a3J0bDdwY2V5cGV6emM2NGl0bWkybTNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ORDxEgxA5aBtQ3Ci1C/giphy.gif"
+  width="300"
+  alt="Developer animation"
+/>
 
 </td>
 </tr>
 </table>
-
 
 ![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)
 
