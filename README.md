@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Jai%20Ganesh%20H&fontSize=52&fontAlignY=38&desc=Builder%20%C2%B7%20Thinker%20%C2%B7%20Gen%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<img width="1584" height="396" alt="Jai Ganesh H (1)" src="https://github.com/user-attachments/assets/5d2b73b9-bff7-4c72-8428-57659af1f357" />
 
 <h2>Don’t just follow the syllabus, follow your curiosity  🧑🏻‍💻</h2>
 
