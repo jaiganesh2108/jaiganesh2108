@@ -37,37 +37,23 @@
 <tr>
 <td width="60%" valign="top">
 
-<h2>Hello_World.py</h2>
+# Hi, I'm Jai Ganesh H 👋
 
-<pre>
-class JaiGaneshH:
-    """
-    A passionate CS undergrad turning caffeine and curiosity
-    into production-grade software — one commit at a time.
-    """
+### Computer Science Undergraduate | AI/ML Developer | Quantum Computing Enthusiast
 
-    name       = "Jai Ganesh H"
-    degree     = "B.E. Computer Science, JEC '27"
-    location   = "India 🇮🇳"
-    programming_languages_known = "Python (Primary), JavaScript, TypeScript"
+I'm a Computer Science student passionate about building **AI-powered applications, intelligent systems, and full-stack solutions**.
 
-    # What I live and breathe
-    interests = [
-        "Agentic AI & Autonomous Systems",
-        "Generative AI & LLM Applications",
-        "Full-Stack Web Development",
-        "Cross-Platform Mobile Apps",
-        "Blockchain & Smart Contracts",
-        "Quantum Computing",
-    ]
+I'm particularly interested in **Generative AI, AI Agents, Full-Stack Development, and Quantum Computing**, and I'm continuously learning by building real-world projects and exploring new technologies.
 
-    open_to = [
-        "Internships",
-        "Hackathons",
-        "Open Source",
-        "Collaborations",
-    ]
-</pre>
+Currently exploring the intersection of:
+
+**AI × Software Engineering × Quantum Computing**
+
+### Tech Stack
+
+`Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Django` · `FastAPI` · `React Native` · `AI/ML` · `Generative AI` · `Quantum Computing`
+
+📍 India · Open to Internships, Open Source & Collaborations
 
 </td>
 
