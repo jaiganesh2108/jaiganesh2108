@@ -51,7 +51,7 @@ Currently exploring the intersection of:
 
 ### Tech Stack
 
-`Python` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Django` · `FastAPI` · `React Native` · `AI/ML` · `Generative AI` · `Quantum Computing` . `Qiskit`
+`Python` · `JavaScript` · `TypeScript` · `Java` ·`React` · `Next.js` · `Django` · `FastAPI` · `React Native` · `AI/ML` · `Generative AI` · `Quantum Computing` . `Qiskit`
 
 📍 India · Open to Internships, Open Source & Collaborations
 
