@@ -110,7 +110,7 @@ Currently exploring the intersection of:
   
 ### 🌐 Full-Stack Development
  
-<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,js,ts,go" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,java,spring,js,ts,go" /><br/><br/>
  
 ![MongoDB](https://img.shields.io/badge/MongoDB-1A1A19?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A19?style=flat-square&logo=postgresql&logoColor=4169E1)
