@@ -162,20 +162,23 @@ Currently exploring the intersection of:
 <br/><br/>
 
 <a href="https://github.com/jaiganesh2108/Shoply-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=Shoply-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=Shoply-AI&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Shoply-AI"/>
 </a>
-&nbsp;
-<a href="https://github.com/jaiganesh2108/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+<a href="https://github.com/jaiganesh2108/myportfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=myportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="myportfolio"/>
 </a>
 
-<a href="https://github.com/jaiganesh2108/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+<a href="https://github.com/jaiganesh2108/youtube-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=youtube-automation&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="youtube-automation" />
 </a>
-&nbsp;
-<a href="https://github.com/jaiganesh2108/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+<a href="https://github.com/jaiganesh2108/ThermoTwinAI">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=ThermoTwinAI&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    width="48%"
+    alt="ThermoTwinAI"
+  />
 </a>
+
 
 ---
   
