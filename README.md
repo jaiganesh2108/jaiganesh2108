@@ -155,30 +155,77 @@ Currently exploring the intersection of:
 
 ---
 
-# 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-<sub>Replace each <code>REPO_NAME</code> with your repository name. Cards update automatically.</sub>
+<p align="center">
+  <i>Exploring AI, Full-Stack Development & Automation</i>
+</p>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/jaiganesh2108/Shoply-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=Shoply-AI&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Shoply-AI"/>
-</a>
-<a href="https://github.com/jaiganesh2108/myportfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=myportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="myportfolio"/>
-</a>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛒 Shoply AI</h3>
+      <p>AI-Powered E-Commerce Platform</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      </p>
+      <a href="https://github.com/jaiganesh2108/Shoply-AI">
+        <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 My Portfolio</h3>
+      <p>Personal Developer Portfolio</p>
+      <p>
+        <img src="https://img.shields.io/badge/Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=flat-square&logo=figma&logoColor=white"/>
+      </p>
+      <a href="https://github.com/jaiganesh2108/myportfolio">
+        <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
-<a href="https://github.com/jaiganesh2108/youtube-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=youtube-automation&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="youtube-automation" />
-</a>
-<a href="https://github.com/jaiganesh2108/ThermoTwinAI">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=ThermoTwinAI&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="48%"
-    alt="ThermoTwinAI"
-  />
-</a>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎬 YouTube Automation</h3>
+      <p>AI-Powered Content Automation</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Automation-222222?style=flat-square"/>
+      </p>
+      <a href="https://github.com/jaiganesh2108/youtube-automation">
+        <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌡️ ThermoTwinAI</h3>
+      <p>AI & Digital Twin Technology</p>
+      <p>
+        <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Digital_Twin-008080?style=flat-square"/>
+      </p>
+      <a href="https://github.com/jaiganesh2108/ThermoTwinAI">
+        <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<p align="center">
+  <a href="https://github.com/jaiganesh2108?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
   
