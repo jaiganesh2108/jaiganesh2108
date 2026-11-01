@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Jai Ganesh H (1)" src="https://github.com/user-attachments/assets/5d2b73b9-bff7-4c72-8428-57659af1f357" />
+<img width="1584" height="396" alt="Jai Ganesh H" src="https://github.com/user-attachments/assets/5d2b73b9-bff7-4c72-8428-57659af1f357" />
 
 <h2>Don’t just follow the syllabus, follow your curiosity  🧑🏻‍💻</h2>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Crafting+AI+Agents+%26+Generative+AI+systems+%E2%9A%99%EF%B8%8F;Shipping+full-stack+products+end+to+end+%F0%9F%9A%80;Exploring+Quantum+Computing+with+Qiskit+%E2%9B%93%EF%B8%8F" alt="Typing animation" />
+</a>
+
+<br/><br/>
 
 <!-- Social badges -->
 
@@ -21,9 +27,15 @@
 <a href="https://jaiganeshh-luca.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-<br/>
+&nbsp;
+<a href="https://leetcode.com/JaiGaneshH">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaiganesh2108&label=Profile+Views&color=58A6FF&style=flat-square)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/jaiganesh2108?label=Followers&style=flat-square&color=58A6FF&logo=github)
 &nbsp;
 ![Open Source](https://img.shields.io/badge/Open_Source-❤️_Contributor-red?style=flat-square)
 &nbsp;
@@ -47,9 +59,18 @@ Currently exploring the intersection of:
 
 **AI × Software Engineering × Quantum Computing**
 
+<br/>
+
+| | |
+|:--|:--|
+| 🔭 **Building** | AI agents & Generative AI applications |
+| 🌱 **Learning** | Agentic workflows · RAG · Quantum algorithms (Qiskit) |
+| 🤝 **Looking for** | Internships · Open Source · Hackathon teammates |
+| 💬 **Ask me about** | Python · FastAPI · Next.js · LLM integrations |
+
 ### Tech Stack
 
-`Python` · `JavaScript` · `TypeScript` · `Java` ·`React` · `Next.js` · `Django` · `FastAPI` · `React Native` · `AI/ML` · `Generative AI` · `Quantum Computing` . `Qiskit`
+`Python` · `JavaScript` · `TypeScript` · `Java` · `React` · `Next.js` · `Django` · `FastAPI` · `React Native` · `AI/ML` · `Generative AI` · `Quantum Computing` · `Qiskit`
 
 📍 India · Open to Internships, Open Source & Collaborations
 
@@ -100,6 +121,7 @@ Currently exploring the intersection of:
 ![Ollama](https://img.shields.io/badge/Ollama-1A1A19?style=flat-square&logo=ollama&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1A1A19?style=flat-square&logo=numpy&logoColor=CC785C)
 ![Pandas](https://img.shields.io/badge/Pandas-1A1A19?style=flat-square&logo=pandas&logoColor=CC785C)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
  
 </td>
 <td valign="top" width="50%">
@@ -114,11 +136,46 @@ Currently exploring the intersection of:
 ![MySQL](https://img.shields.io/badge/MySQL-1A1A19?style=flat-square&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-1A1A19?style=flat-square&logo=sqlite&logoColor=003B57)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1A1A19?style=flat-square&logo=fastapi&logoColor=009688)
+![React Native](https://img.shields.io/badge/React%20Native-1A1A19?style=flat-square&logo=react&logoColor=61DAFB)
  
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,figma,jupyter" />
+
+</td>
+</tr>
 </table>
+
 <div align="center">
+
+---
+
+# 🚀 Featured Projects
+
+<sub>Replace each <code>REPO_NAME</code> with your repository name. Cards update automatically.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/jaiganesh2108/Shoply-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=Shoply-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+</a>
+&nbsp;
+<a href="https://github.com/jaiganesh2108/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+</a>
+
+<a href="https://github.com/jaiganesh2108/REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+</a>
+&nbsp;
+<a href="https://github.com/jaiganesh2108/REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiganesh2108&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="46%" />
+</a>
 
 ---
   
@@ -130,15 +187,21 @@ Currently exploring the intersection of:
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&theme=tokyonight" width="46%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" width="46%" />
+<img src="https://streak-stats.demolab.com/?user=jaiganesh2108&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0d1117" width="46%" />
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="30%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&ttheme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="30%" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiganesh2108&theme=tokyonight&hide_border=true" width="30%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh2108&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="46%" />
+&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=jaiganesh2108&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="46%" />
 
 <br/>
 
@@ -194,5 +257,5 @@ If you're working on something interesting in **AI, Web, or Mobile** — let's t
 <div align="center">
   <sub>⚡ Fueled by curiosity, coffee, and the audacity to build things I haven't figured out yet. </sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:58A6FF,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
