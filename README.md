@@ -102,16 +102,20 @@ Currently exploring the intersection of:
 
 ---
 
-# Tech Stack & Technologies
+<div align="center">
+
+## Tech Stack & Technologies
+
 </div>
+
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
-  
+
 ### 🧠 AI / ML / GenAI
- 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda,googlecloud" /><br/><br/>
- 
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,sklearn,opencv,anaconda,gcp" /><br/><br/>
+
 ![LangChain](https://img.shields.io/badge/LangChain-1A1A19?style=flat-square&logo=chainlink&logoColor=CC785C)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-1A1A19?style=flat-square&logo=openai&logoColor=CC785C)
 ![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
@@ -122,14 +126,14 @@ Currently exploring the intersection of:
 ![NumPy](https://img.shields.io/badge/NumPy-1A1A19?style=flat-square&logo=numpy&logoColor=CC785C)
 ![Pandas](https://img.shields.io/badge/Pandas-1A1A19?style=flat-square&logo=pandas&logoColor=CC785C)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
- 
+
 </td>
 <td valign="top" width="50%">
-  
+
 ### 🌐 Full-Stack Development
- 
+
 <img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,tailwind,nodejs,express,java,spring,js,ts,go" /><br/><br/>
- 
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-1A1A19?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A19?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Firebase](https://img.shields.io/badge/Firebase-1A1A19?style=flat-square&logo=firebase&logoColor=FFCA28)
@@ -137,11 +141,31 @@ Currently exploring the intersection of:
 ![SQLite](https://img.shields.io/badge/SQLite-1A1A19?style=flat-square&logo=sqlite&logoColor=003B57)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1A1A19?style=flat-square&logo=fastapi&logoColor=009688)
 ![React Native](https://img.shields.io/badge/React%20Native-1A1A19?style=flat-square&logo=react&logoColor=61DAFB)
- 
+
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td valign="top" width="50%">
+
+### 🗄️ Data Engineering
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,linux,docker,git,github" /><br/><br/>
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-1A1A19?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1A1A19?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-1A1A19?style=flat-square&logo=apachekafka&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-1A1A19?style=flat-square&logo=databricks&logoColor=FF3621)
+![dbt](https://img.shields.io/badge/dbt-1A1A19?style=flat-square&logo=dbt&logoColor=FF694B)
+![Snowflake](https://img.shields.io/badge/Snowflake-1A1A19?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![Microsoft Azure](https://img.shields.io/badge/Azure-1A1A19?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-1A1A19?style=flat-square&logo=googlebigquery&logoColor=669DF6)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-1A1A19?style=flat-square&logo=amazons3&logoColor=569A31)
+![Power BI](https://img.shields.io/badge/Power%20BI-1A1A19?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Jupyter](https://img.shields.io/badge/Jupyter-1A1A19?style=flat-square&logo=jupyter&logoColor=F37626)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-1A1A19?style=flat-square&logo=apachehadoop&logoColor=66CCFF)
+
+</td>
+<td valign="top" width="50%">
 
 ### 🧰 Tools & Platforms
 
@@ -150,8 +174,6 @@ Currently exploring the intersection of:
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 ---
 
