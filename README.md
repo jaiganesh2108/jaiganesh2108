@@ -169,7 +169,7 @@ Currently exploring the intersection of:
 
 ### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,figma,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman,vercel,figma,jupyter" />
 
 </td>
 </tr>
