@@ -5,7 +5,7 @@
 <h2>Don't just follow the syllabus, follow your curiosity 🧑🏻‍💻</h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineering+is+where+I+want+to+be;Full-Stack+AI+Developer+in+the+making;Building+pipelines%2C+APIs+and+AI-powered+apps;Quantum+computing+on+the+side%2C+just+for+fun" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineering;Full-Stack+Development;AI+%26+Generative+AI;Quantum+Computing" alt="Typing animation" />
 </a>
 
 <br/><br/>
