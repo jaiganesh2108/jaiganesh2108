@@ -2,10 +2,10 @@
 
 <img width="1584" height="396" alt="Jai Ganesh H" src="https://github.com/user-attachments/assets/5d2b73b9-bff7-4c72-8428-57659af1f357" />
 
-<h2>Don’t just follow the syllabus, follow your curiosity  🧑🏻‍💻</h2>
+<h2>Don't just follow the syllabus, follow your curiosity 🧑🏻‍💻</h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Crafting+AI+Agents+%26+Generative+AI+systems+%E2%9A%99%EF%B8%8F;Shipping+full-stack+products+end+to+end+%F0%9F%9A%80;Exploring+Quantum+Computing+with+Qiskit+%E2%9B%93%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Engineering+is+where+I+want+to+be;Full-Stack+AI+Developer+in+the+making;Building+pipelines%2C+APIs+and+AI-powered+apps;Quantum+computing+on+the+side%2C+just+for+fun" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -37,9 +37,9 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/jaiganesh2108?label=Followers&style=flat-square&color=58A6FF&logo=github)
 &nbsp;
-![Open Source](https://img.shields.io/badge/Open_Source-❤️_Contributor-red?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-Contributor-red?style=flat-square)
 &nbsp;
-![Intern Ready](https://img.shields.io/badge/Internship-Ready_2026-58A6FF?style=flat-square)
+![Internship](https://img.shields.io/badge/Internship-Open_for_2026-58A6FF?style=flat-square)
 
 </div>
 
@@ -49,30 +49,30 @@
 
 # Hi, I'm Jai Ganesh H 👋
 
-### Computer Science Undergraduate | AI/ML Developer | Quantum Computing Enthusiast
+### Computer Science Undergraduate | Aspiring Data Engineer | Full-Stack AI Developer
 
-I'm a Computer Science student passionate about building **AI-powered applications, intelligent systems, and full-stack solutions**.
+I'm a Computer Science student with a strong interest in **data engineering**. I like the part of software that most people don't see: how data is collected, moved, cleaned, and served so everything built on top of it can be trusted.
 
-I'm particularly interested in **Generative AI, AI Agents, Full-Stack Development, and Quantum Computing**, and I'm continuously learning by building real-world projects and exploring new technologies.
+Alongside that, I build **full-stack AI applications**, from the backend APIs to the interface, using LLMs and generative AI where they actually make a product better.
 
-Currently exploring the intersection of:
-
-**AI × Software Engineering × Quantum Computing**
+I also explore **quantum computing with Qiskit**. It's a side hobby and I enjoy it for exactly that reason.
 
 <br/>
 
 | | |
 |:--|:--|
-| 🔭 **Building** | AI agents & Generative AI applications |
-| 🌱 **Learning** | Agentic workflows · RAG · Quantum algorithms (Qiskit) |
-| 🤝 **Looking for** | Internships · Open Source · Hackathon teammates |
-| 💬 **Ask me about** | Python · FastAPI · Next.js · LLM integrations |
+| 🎯 **Main focus** | Data engineering · Data pipelines and backend systems |
+| 🔭 **Also building** | Full-stack AI apps and LLM-powered tools |
+| 🌱 **Learning** | RAG · Agentic workflows · Pipeline design |
+| 🧪 **curiosity** | Quantum computing with Qiskit |
+| 🤝 **Looking for** | Internships · Open source · Hackathon teammates |
+| 💬 **Ask me about** | Python · SQL · Big Data · FastAPI · Django · Next.js · LLM integrations |
 
 ### Tech Stack
 
-`Python` · `JavaScript` · `TypeScript` · `Java` · `React` · `Next.js` · `Django` · `FastAPI` · `React Native` · `AI/ML` · `Generative AI` · `Quantum Computing` · `Qiskit`
+`Python` · `SQL` · `JavaScript` · `TypeScript` · `Java` · `FastAPI` · `Django` · `React` · `Next.js` · `React Native` · `AI/ML` · `Generative AI` · `Qiskit`
 
-📍 India · Open to Internships, Open Source & Collaborations
+📍 India · Open to internships, open source and collaborations
 
 </td>
 
@@ -97,8 +97,6 @@ Currently exploring the intersection of:
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 ---
 
@@ -159,7 +157,6 @@ Currently exploring the intersection of:
 ![Snowflake](https://img.shields.io/badge/Snowflake-1A1A19?style=flat-square&logo=snowflake&logoColor=29B5E8)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-1A1A19?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-1A1A19?style=flat-square&logo=googlebigquery&logoColor=669DF6)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-1A1A19?style=flat-square&logo=amazons3&logoColor=569A31)
 ![Power BI](https://img.shields.io/badge/Power%20BI-1A1A19?style=flat-square&logo=powerbi&logoColor=F2C811)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1A1A19?style=flat-square&logo=jupyter&logoColor=F37626)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-1A1A19?style=flat-square&logo=apachehadoop&logoColor=66CCFF)
