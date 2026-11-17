@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Jai Ganesh H" src="https://github.com/user-attachments/assets/5d2b73b9-bff7-4c72-8428-57659af1f357" />
+<img width="100%" alt="Jai Ganesh H" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Jai%20Ganesh%20H&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%7C%20Full-Stack%20AI%20Developer&descSize=20&descAlignY=60" />
 
 <h2>Don't just follow the syllabus, follow your curiosity 🧑🏻‍💻</h2>
 
